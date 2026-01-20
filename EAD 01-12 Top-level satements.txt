@@ -1,0 +1,66 @@
+Some data types that havent been assigned dont default to null, instead
+int defaults to null
+bool defaults to false
+
+We started a code file in the top level
+Console.WriteLine() - adds a new line
+or
+Console.write - does not write to a new line
+
+--CONCATENATION
+
+string name = "string" + "another string"\n;
+
+Formatting
+string format = string.Format("This is {0}, I love {}", opinon, thing)
+
+string interpolation
+theses are likes fstrings in python
+In C# we do: $"Age: {age}"
+
+--PARSE
+each data type has a .Parse method
+you can int.Parse(varName) to convert varName to an int.
+This can cause errors if it get something it cant convert
+
+To do this more 'safely', we can do this:
+int.TryParse(numTimes, out casts);
+it returns true or false, and 
+
+--WATCH VARIABLE
+after setting a breakpoint, and hitting that breakpoint
+debug-> watch will open the watch tab
+you can add a variable to this list to monitor its values
+
+--MATH and operators
+operators: +, -, *, /, %,
+assignment operators: +=, -=, *=, /=, %=
+You can do integer division IF both values are integers
+
+You can convert a float to an int by casting it like so:
+int intNum = (int)firstNum;
+int intNum = firstNum 
+
+--RNG
+Random random = new Random()
+random numbers start from 0 and go up to one below the max
+
+
+--TERNARY OPERATORS
+? :
+string message = value + value2 > 100 ? response1 : response2
+--SHORTCUTS
+block comment
+ctrl+k ctrl+c
+block uncomment
+ctrl+k ctrl+u
+duplicate
+ctrl+d 
+
+
+Edu reccomendations:
+Azure and AWS
+
+Book reccomendation
+jonathan strange and mr norrell
+

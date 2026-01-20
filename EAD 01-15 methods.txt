@@ -1,0 +1,17 @@
+On the same level as the main function, you can define methods
+
+method parameters are constants
+they can be changed using a 'pass by reference'
+
+out variable
+vs
+variable
+
+Out variable passes a reference to the container variable, allowing its content
+to be 'changed'
+
+variable passes a reference to the value of the container. You cannot reassign it, you arent changing its value
+
+In string literals $"{variable:C}"
+:C formats a variable to currency
+These formatting statements allow you to format strings or other values

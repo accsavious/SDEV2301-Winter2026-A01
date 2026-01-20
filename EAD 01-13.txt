@@ -1,0 +1,20 @@
+STUDY: ++i vs i++
+Getting user input for console apps
+string input = Console.ReadLine();
+
+--OPERATORS
+-logical
+and is &&
+or is ||
+not is !
+
+-
+For bitwise operator
+and is &
+or is | 
+xor (exlusive or) if one or the other is 1, but not both (in a byte)
+
+--SCOPE
+variables defined in {} cannot be access outside
+They haved to be declared at a higher level
+This is why variables defined in the do portion of a do-while loop cant be accessed in the while portion

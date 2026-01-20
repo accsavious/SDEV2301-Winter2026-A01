@@ -1,0 +1,32 @@
+Console>Write("") message, no newline
+Console.WriteLine("") message followed by newline
+
+Get user input for variable:
+bool success = double.TryParse(Console.ReadLine(), out double variable)
+success is
+
+
+Methods
+
+static double InputWeightInNewtons()
+{
+	bool success = double.TryParse(Console.ReadLine(), out double variable);
+	return double;
+}
+*Static means 
+
+Scope: variables declared
+
+loops:
+while
+do while
+for each
+They have scope
+
+and &&
+or ||
+not ! (like !true)
+
+
+if (true && false)
+	Console.Write("Hello!");

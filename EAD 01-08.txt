@@ -1,0 +1,63 @@
+Taught by Jared
+Communicate: email or teams
+
+
+C# as a language
+It is a compiled language
+It has to be converted to an executable
+its converted into IL: intermediary language
+
+IL is run by:
+CLR: common language run time
+C# is prepared into a 
+
+
+C# is great for for dotnet
+
+python is great for data science
+
+C# is a strongly typed language, Variables must be specified
+To set a variable in C#:
+
+datatype variableName = value;
+
+if age > 50:
+	print("You are gen x")
+
+C# has tons of data types
+We have strings "" which are a set of characters
+AND
+char which have '' single quotes and 
+C# comments
+// comment
+/* multi-line comments
+*
+*/
+
+Floats
+
+float floatName = 3.14159f; 4 bytes up to 7 points of accuracy
+you need to end them in f so the computer knows its a float
+double doubleName = 3.1415926535; 8 bytes up to 16 points of accuracy
+decimal decimalName = 3.14159m;
+you need to end them with m so the computer knows its a float
+
+universal variable
+var myVariable = 10; The data type is determined at runtime
+you must assign this a value to let the computer figure out what it is
+
+
+Dictionary<string, int> mynary = new Dictionary<string, int>();
+
+Boilerplate stuff:
+namespace is a parent structure for the code file
+you can access a namespace with another file using its name
+
+internal class Program
+an access modifier
+
+static voidMain(string[] args)
+{
+}
+mandatory component that contains all executed code for the file
+this is the main function

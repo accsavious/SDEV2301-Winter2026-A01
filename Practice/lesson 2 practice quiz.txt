@@ -1,0 +1,19 @@
+
+1. What is the result of this integer division example:
+    double number = 9 / 4;
+2.25
+The answer is 2, because 9 and 4 are integers
+to make either a double(a kind of float) you need to give them a decimal point
+like double number = 9 / 4.0;
+2. Which data type represents true/false?
+bool
+3. What is the default value of an uninitialized int field in a class?
+0
+4. Difference between var and explicit types? (short answer)
+var type is interpreted when the code is compiled
+explicit types are determined in code.
+Var cannot be initialized without a value, as they need a value to determine their
+type.
+5. Identify and correct the missing semicolon line.
+6. What happens if you assign a string to an int? (short answer)
+This will show an error in the code
