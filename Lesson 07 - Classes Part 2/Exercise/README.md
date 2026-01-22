@@ -38,7 +38,7 @@ Implement object oriented programming and encapsulation where required.
                 - Must be from 1-80
             - Species: String
         - Methods
-            - override ToString to print the Name, Age, and Breed.
+            - override ToString to print the Name, Age, and Species.
             - MakeNoise(): Prints "{name} chirps excitedly."
 5. Create the following methods in the Program.cs file:
     - `PrintMainMenu()`: void method that prints the opening menu
