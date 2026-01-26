@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CalculatorUnitTests/CalculatorUnitTests.csproj" Id="b8e09f89-66f8-422b-97ab-bbdd08b331ba" />
+  <Project Path="UnitTesting/UnitTesting.csproj" />
+</Solution>
