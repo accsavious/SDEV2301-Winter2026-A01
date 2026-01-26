@@ -26,3 +26,18 @@ C:\Users\jkarpiak.NAIT\OneDrive - NAIT\Documents\Courses\2026\Winter\SDEV2301\Le
 C:\Users\jkarpiak.NAIT\OneDrive - NAIT\Documents\Courses\2026\Winter\SDEV2301\Lessons\Module 1\Lesson 07\Exercises\PetStoreExample\PetStore\obj\Debug\net10.0\PetStore.pdb
 C:\Users\jkarpiak.NAIT\OneDrive - NAIT\Documents\Courses\2026\Winter\SDEV2301\Lessons\Module 1\Lesson 07\Exercises\PetStoreExample\PetStore\obj\Debug\net10.0\PetStore.genruntimeconfig.cache
 C:\Users\jkarpiak.NAIT\OneDrive - NAIT\Documents\Courses\2026\Winter\SDEV2301\Lessons\Module 1\Lesson 07\Exercises\PetStoreExample\PetStore\obj\Debug\net10.0\ref\PetStore.dll
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\bin\Debug\net10.0\PetStore.exe
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\bin\Debug\net10.0\PetStore.deps.json
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\bin\Debug\net10.0\PetStore.runtimeconfig.json
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\bin\Debug\net10.0\PetStore.dll
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\bin\Debug\net10.0\PetStore.pdb
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\obj\Debug\net10.0\PetStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\obj\Debug\net10.0\PetStore.AssemblyInfoInputs.cache
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\obj\Debug\net10.0\PetStore.AssemblyInfo.cs
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\obj\Debug\net10.0\PetStore.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\obj\Debug\net10.0\PetStore.sourcelink.json
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\obj\Debug\net10.0\PetStore.dll
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\obj\Debug\net10.0\refint\PetStore.dll
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\obj\Debug\net10.0\PetStore.pdb
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\obj\Debug\net10.0\PetStore.genruntimeconfig.cache
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 07 - Classes Part 2\Exercise\PetStoreExample\PetStore\obj\Debug\net10.0\ref\PetStore.dll

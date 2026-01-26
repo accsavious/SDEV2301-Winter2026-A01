@@ -40,6 +40,11 @@ namespace PetStore.Animals
             this.Breed = breed;
         }
 
+        public Dog()
+        {
+
+        }
+
         public override string ToString()
         {
             return $"Name: {Name}, Age: {Age}, Breed: {Breed}";

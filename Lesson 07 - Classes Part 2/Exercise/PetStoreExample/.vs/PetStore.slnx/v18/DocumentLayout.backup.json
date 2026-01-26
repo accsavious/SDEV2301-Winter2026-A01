@@ -1,17 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 07\\Exercises\\PetStoreExample\\",
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1DD77A3-7C84-6A55-8B22-709D32C37A4E}|PetStore\\PetStore.csproj|c:\\users\\jkarpiak.nait\\onedrive - nait\\documents\\courses\\2026\\winter\\sdev2301\\lessons\\module 1\\lesson 07\\exercises\\petstoreexample\\petstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA998206-102D-4310-AF01-5D6916C13D12}|PetTests\\PetTests.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 07 - classes part 2\\exercise\\petstoreexample\\pettests\\dogtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA998206-102D-4310-AF01-5D6916C13D12}|PetTests\\PetTests.csproj|solutionrelative:pettests\\dogtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DD77A3-7C84-6A55-8B22-709D32C37A4E}|PetStore\\PetStore.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 07 - classes part 2\\exercise\\petstoreexample\\petstore\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DD77A3-7C84-6A55-8B22-709D32C37A4E}|PetStore\\PetStore.csproj|solutionrelative:petstore\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA998206-102D-4310-AF01-5D6916C13D12}|PetTests\\PetTests.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 07 - classes part 2\\exercise\\petstoreexample\\pettests\\pettests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA998206-102D-4310-AF01-5D6916C13D12}|PetTests\\PetTests.csproj|solutionrelative:pettests\\pettests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DD77A3-7C84-6A55-8B22-709D32C37A4E}|PetStore\\PetStore.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 07 - classes part 2\\exercise\\petstoreexample\\petstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1DD77A3-7C84-6A55-8B22-709D32C37A4E}|PetStore\\PetStore.csproj|solutionrelative:petstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1DD77A3-7C84-6A55-8B22-709D32C37A4E}|PetStore\\PetStore.csproj|c:\\users\\jkarpiak.nait\\onedrive - nait\\documents\\courses\\2026\\winter\\sdev2301\\lessons\\module 1\\lesson 07\\exercises\\petstoreexample\\petstore\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1DD77A3-7C84-6A55-8B22-709D32C37A4E}|PetStore\\PetStore.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 07 - classes part 2\\exercise\\petstoreexample\\petstore\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1DD77A3-7C84-6A55-8B22-709D32C37A4E}|PetStore\\PetStore.csproj|solutionrelative:petstore\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1DD77A3-7C84-6A55-8B22-709D32C37A4E}|PetStore\\PetStore.csproj|c:\\users\\jkarpiak.nait\\onedrive - nait\\documents\\courses\\2026\\winter\\sdev2301\\lessons\\module 1\\lesson 07\\exercises\\petstoreexample\\petstore\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1DD77A3-7C84-6A55-8B22-709D32C37A4E}|PetStore\\PetStore.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 07 - classes part 2\\exercise\\petstoreexample\\petstore\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1DD77A3-7C84-6A55-8B22-709D32C37A4E}|PetStore\\PetStore.csproj|solutionrelative:petstore\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,8 +34,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "PetStore\\Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\Animals\\Dog.cs",
+              "RelativeToolTip": "PetStore\\Animals\\Dog.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T21:36:32.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetTests",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetTests\\PetTests.csproj",
+              "RelativeDocumentMoniker": "PetTests\\PetTests.csproj",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetTests\\PetTests.csproj",
+              "RelativeToolTip": "PetTests\\PetTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T21:34:27.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -35,23 +77,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DogTests.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetTests\\DogTests.cs",
+              "RelativeDocumentMoniker": "PetTests\\DogTests.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetTests\\DogTests.cs",
+              "RelativeToolTip": "PetTests\\DogTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T21:34:13.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 07\\Exercises\\PetStoreExample\\PetStore\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\Program.cs",
               "RelativeDocumentMoniker": "PetStore\\Program.cs",
-              "ToolTip": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 07\\Exercises\\PetStoreExample\\PetStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\Program.cs",
               "RelativeToolTip": "PetStore\\Program.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAA8wFYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwFYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T22:25:27.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Bird.cs",
-              "DocumentMoniker": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 07\\Exercises\\PetStoreExample\\PetStore\\Animals\\Bird.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\Animals\\Bird.cs",
               "RelativeDocumentMoniker": "PetStore\\Animals\\Bird.cs",
-              "ToolTip": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 07\\Exercises\\PetStoreExample\\PetStore\\Animals\\Bird.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\Animals\\Bird.cs",
               "RelativeToolTip": "PetStore\\Animals\\Bird.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,11 +114,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Cat.cs",
-              "DocumentMoniker": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 07\\Exercises\\PetStoreExample\\PetStore\\Animals\\Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\Animals\\Cat.cs",
               "RelativeDocumentMoniker": "PetStore\\Animals\\Cat.cs",
-              "ToolTip": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 07\\Exercises\\PetStoreExample\\PetStore\\Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\Animals\\Cat.cs",
               "RelativeToolTip": "PetStore\\Animals\\Cat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
