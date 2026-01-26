@@ -1,0 +1,39 @@
+This is an automated test that tests a unit of code
+You can add a unit test:
+right click the solution -> add -> project -> xUnit Test Project
+
+Follow a naming convention
+In our class its 
+MethodName_State_ExpectedResult
+ex for a calculator adding test:
+Add_TwoNumbers_ReturnsCorrectSum()
+
+Different projects cant 'see' eachother without a project reference
+
+we have a [] tag above the test class
+[Fact] to test a variable
+[Theory] can test multiple different values
+
+dependencies -right click-> add project reference -> select project to reference
+inside the test,
+we need to
+Arrange
+Make an instance of the class or whatever
+Act
+test the code into a variable
+Assert
+Use Asser.method(testVariable)
+
+Then you can run with 
+
+for [theory] tag
+you need variables as parameters in the test
+public void Add_TwoNumbers_ReturnsCorrectSum(int a, int b, int expectedSum)
+and code the test with these variables
+
+just below the [Theory] tag, place [InlineData()] tags
+In these tags, pass arguments for the test, like
+[InlineData(2,3,5)]
+[InlineData(5,6,11)]
+
+Tests should only test one thing
