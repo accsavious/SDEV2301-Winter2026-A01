@@ -1,0 +1,15 @@
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\bin\Debug\net10.0\Lesson_8_unit_tests.exe
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\bin\Debug\net10.0\Lesson_8_unit_tests.deps.json
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\bin\Debug\net10.0\Lesson_8_unit_tests.runtimeconfig.json
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\bin\Debug\net10.0\Lesson_8_unit_tests.dll
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\bin\Debug\net10.0\Lesson_8_unit_tests.pdb
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\obj\Debug\net10.0\Lesson_8_unit_tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\obj\Debug\net10.0\Lesson_8_unit_tests.AssemblyInfoInputs.cache
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\obj\Debug\net10.0\Lesson_8_unit_tests.AssemblyInfo.cs
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\obj\Debug\net10.0\Lesson_8_unit_tests.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\obj\Debug\net10.0\Lesson_8_unit_tests.sourcelink.json
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\obj\Debug\net10.0\Lesson_8_unit_tests.dll
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\obj\Debug\net10.0\refint\Lesson_8_unit_tests.dll
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\obj\Debug\net10.0\Lesson_8_unit_tests.pdb
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\obj\Debug\net10.0\Lesson_8_unit_tests.genruntimeconfig.cache
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\Labs\lab-activity-1-accsavious\Lesson 8 unit tests\Lesson 8 unit tests\obj\Debug\net10.0\ref\Lesson_8_unit_tests.dll

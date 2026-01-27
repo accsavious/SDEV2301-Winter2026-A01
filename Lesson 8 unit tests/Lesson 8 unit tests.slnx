@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CalDemoTest/CalDemoTest.csproj" />
+  <Project Path="Lesson 8 unit tests/Lesson_8_unit_tests.csproj" />
+</Solution>
