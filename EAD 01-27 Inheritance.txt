@@ -1,0 +1,74 @@
+private not accessed outside class
+public accessed anywhere
+protected: only accessed by itself and its children
+
+public abstract class Classname
+abstract classes are used only used for inheritance
+
+abstract and virtual methods
+abstract: Children of this class must have this method.
+if the abstract method isn't 
+
+virutal: can be overridden
+
+When using the constructor in a C# class:
+to serve values to the base constructor, you need to reference it with
+public Circle(double radius, string color) : base(color) <- this 
+
+C# Iterables
+Lists: a collection of items
+MyClass[] array;
+List<MyClass> list;
+Array: a collection of items with FIXED number of items
+For an array
+Circle[] circles = new Circle[3];
+^this array will have 3 locations, they must all be circles
+
+If an array isnt full, the empty spot will be null
+if we try to access it, the program can crash
+
+if (item == null)
+	continue; (skip this item)
+
+Rectangle[] rectanges =
+{
+    new Rectangle(4,10, "blue"),
+    new Rectangle(7,12, "red"),
+    new Rectangle(12, 2, "purple"),
+};
+This will automaticall make an array with a size of 3
+
+Polymorphism
+You can make a list with a type of the parent class that can have multiple
+items of other inheriting classes
+List<Shape> shapes = new List<Shape>()
+{
+    new Circle(4, "Slime Green"),
+    new Rectangle(3, 8, "Red"),
+    new Circle(7, "Blurple")
+};
+
+The master class of all types is object
+List<object> obj = new List<object>()
+{
+	anything
+}
+
+Casting
+Circle c = (Circle)shape;
+
+interfaces
+doesnt need public on variables and methods
+A class can inherit from a class, and an interface
+
+Passing by ref
+ex:
+ref string variableName
+This passes the variable rather than just the value into the method
+
+similar to out keyword. Difference, out keyword expects it to be changed
+
+NOT COVERED IN CLASS
+Composition - using classes as components
+If a inherited attribute has nothing to do with the child.
+Instead we can make a class to represent an attribute, and give children this class attribute.

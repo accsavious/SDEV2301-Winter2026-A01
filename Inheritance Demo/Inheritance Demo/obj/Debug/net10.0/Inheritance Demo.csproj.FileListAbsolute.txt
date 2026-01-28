@@ -1,0 +1,15 @@
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\bin\Debug\net10.0\Inheritance Demo.exe
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\bin\Debug\net10.0\Inheritance Demo.deps.json
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\bin\Debug\net10.0\Inheritance Demo.runtimeconfig.json
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\bin\Debug\net10.0\Inheritance Demo.dll
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\bin\Debug\net10.0\Inheritance Demo.pdb
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\obj\Debug\net10.0\Inheritance Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\obj\Debug\net10.0\Inheritance Demo.AssemblyInfoInputs.cache
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\obj\Debug\net10.0\Inheritance Demo.AssemblyInfo.cs
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\obj\Debug\net10.0\Inheritance Demo.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\obj\Debug\net10.0\Inheritance Demo.sourcelink.json
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\obj\Debug\net10.0\Inheritance Demo.dll
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\obj\Debug\net10.0\refint\Inheritance Demo.dll
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\obj\Debug\net10.0\Inheritance Demo.pdb
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\obj\Debug\net10.0\Inheritance Demo.genruntimeconfig.cache
+C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Inheritance Demo\Inheritance Demo\obj\Debug\net10.0\ref\Inheritance Demo.dll
