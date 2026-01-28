@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\Labs\\lab-activity-1-accsavious\\Encapsulation\\",
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{304C7E78-AFE1-3ABA-E617-8EAD05D83A3D}|Encapsulation\\Encapsulation.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\labs\\lab-activity-1-accsavious\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{304C7E78-AFE1-3ABA-E617-8EAD05D83A3D}|Encapsulation\\Encapsulation.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{304C7E78-AFE1-3ABA-E617-8EAD05D83A3D}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\Labs\\lab-activity-1-accsavious\\Encapsulation\\Encapsulation\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Encapsulation\\Encapsulation\\Program.cs",
               "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\Labs\\lab-activity-1-accsavious\\Encapsulation\\Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Encapsulation\\Encapsulation\\Program.cs",
               "RelativeToolTip": "Encapsulation\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T20:02:13.751Z",
               "EditorCaption": ""

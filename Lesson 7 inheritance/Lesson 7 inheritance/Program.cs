@@ -6,5 +6,9 @@
         {
             Console.WriteLine("Hello, World!");
         }
+        static void PrintMainMenu()
+        {
+
+        }
     }
 }
