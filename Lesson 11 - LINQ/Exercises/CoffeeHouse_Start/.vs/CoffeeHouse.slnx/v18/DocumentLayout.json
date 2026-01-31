@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 10 - LINQ and Collection Queries\\Exercises\\CoffeeHouse_Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD4AEA4-4183-6910-A994-CD276CB9D723}|CoffeeHouse\\CoffeeHouse.csproj|c:\\users\\jkarpiak.nait\\onedrive - nait\\documents\\courses\\2026\\winter\\sdev2301\\lessons\\module 1\\lesson 10 - linq and collection queries\\exercises\\coffeehouse_start\\coffeehouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD4AEA4-4183-6910-A994-CD276CB9D723}|CoffeeHouse\\CoffeeHouse.csproj|solutionrelative:coffeehouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD4AEA4-4183-6910-A994-CD276CB9D723}|CoffeeHouse\\CoffeeHouse.csproj|c:\\users\\jkarpiak.nait\\onedrive - nait\\documents\\courses\\2026\\winter\\sdev2301\\lessons\\module 1\\lesson 10 - linq and collection queries\\exercises\\coffeehouse_start\\coffeehouse\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD4AEA4-4183-6910-A994-CD276CB9D723}|CoffeeHouse\\CoffeeHouse.csproj|solutionrelative:coffeehouse\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 10 - LINQ and Collection Queries\\Exercises\\CoffeeHouse_Start\\CoffeeHouse\\Coffee.cs",
+              "RelativeDocumentMoniker": "CoffeeHouse\\Coffee.cs",
+              "ToolTip": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 10 - LINQ and Collection Queries\\Exercises\\CoffeeHouse_Start\\CoffeeHouse\\Coffee.cs",
+              "RelativeToolTip": "CoffeeHouse\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T20:49:27.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 10 - LINQ and Collection Queries\\Exercises\\CoffeeHouse_Start\\CoffeeHouse\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeHouse\\Program.cs",
+              "ToolTip": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\Lessons\\Module 1\\Lesson 10 - LINQ and Collection Queries\\Exercises\\CoffeeHouse_Start\\CoffeeHouse\\Program.cs",
+              "RelativeToolTip": "CoffeeHouse\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwIAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T20:48:50.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

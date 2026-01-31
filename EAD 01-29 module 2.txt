@@ -1,0 +1,60 @@
+Linq - a tech built into C# for querying lists or dictionaries
+Its reminiscent of SQL
+Syntax for Linq QUERY
+
+var queryQuery = from thing in things
+	where thing.number >= 5
+	orderby thing.name descending
+	select thing;
+
+Interface defines behaviors for a class it extends
+IEnumerable
+
+OR
+Using list methods
+var value = things.Where(thing => thing.number >= 5)
+.OrderByDescending(thing => thing.value);
+
+PROJECTION - 
+var names = students.Where(s => s.Name.Contains("e"))
+    .Select(s => s.Name);
+
+foreach (string name in names)
+{
+    Console.WriteLine(name);
+}
+
+
+
+GROUP
+var groupByName = from s in students
+	group s by s.Name[0] into g // makes each name a group
+	select g;
+
+foreach (var group in groupByName)
+	{
+		Console.WriteLine(group.Key);
+	}
+this will group students by first letter in their name
+
+
+var groupPassFail = from s in students
+                orderby s.Name descending
+                group s by (s.Grade >= 70 ? "Pass" : "Fail") // sorts into 
+                into g
+                select g;
+foreach (var group in groupPassFail)
+{
+    Console.WriteLine(group.Key);
+    foreach (Student s in group)
+    {
+        Console.WriteLine($"{s.Name,-10} {s.Grade}");
+    }
+}
+
+
+String interpolation
+We can reserve a number of characters for a string with a , followed by an int
+$"{thing.value, -10}"
+The value is negative to make things left aligned,
+If its positive, the data will be right aligned.
