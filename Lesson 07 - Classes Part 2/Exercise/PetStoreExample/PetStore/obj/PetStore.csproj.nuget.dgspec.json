@@ -2,9 +2,12 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\PetStore.csproj": {}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 7682f3e723c2ce245a8aaf543cfa9e966e20adb2
     "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\PetStore.csproj": {}
 >>>>>>> 7682f3e723c2ce245a8aaf543cfa9e966e20adb2
   },
@@ -33,6 +36,9 @@
         "packagesPath": "C:\\Users\\jkarpiak.NAIT\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jkarpiak.NAIT\\OneDrive - NAIT\\Documents\\Courses\\2026\\Winter\\SDEV2301\\A01\\class-repo\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\obj\\",
 >>>>>>> d8a132fc5e7cb65fa457ddf0ec0086248427439c
+<<<<<<< HEAD
+>>>>>>> 7682f3e723c2ce245a8aaf543cfa9e966e20adb2
+=======
 >>>>>>> 7682f3e723c2ce245a8aaf543cfa9e966e20adb2
         "projectStyle": "PackageReference",
         "fallbackFolders": [
