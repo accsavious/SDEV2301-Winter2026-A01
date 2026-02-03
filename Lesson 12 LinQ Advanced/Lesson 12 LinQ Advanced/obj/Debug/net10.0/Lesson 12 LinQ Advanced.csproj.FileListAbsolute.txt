@@ -1,0 +1,15 @@
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\bin\Debug\net10.0\Lesson 12 LinQ Advanced.exe
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\bin\Debug\net10.0\Lesson 12 LinQ Advanced.deps.json
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\bin\Debug\net10.0\Lesson 12 LinQ Advanced.runtimeconfig.json
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\bin\Debug\net10.0\Lesson 12 LinQ Advanced.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\bin\Debug\net10.0\Lesson 12 LinQ Advanced.pdb
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\obj\Debug\net10.0\Lesson 12 LinQ Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\obj\Debug\net10.0\Lesson 12 LinQ Advanced.AssemblyInfoInputs.cache
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\obj\Debug\net10.0\Lesson 12 LinQ Advanced.AssemblyInfo.cs
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\obj\Debug\net10.0\Lesson 12 LinQ Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\obj\Debug\net10.0\Lesson 12 LinQ Advanced.sourcelink.json
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\obj\Debug\net10.0\Lesson 12 LinQ Advanced.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\obj\Debug\net10.0\refint\Lesson 12 LinQ Advanced.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\obj\Debug\net10.0\Lesson 12 LinQ Advanced.pdb
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\obj\Debug\net10.0\Lesson 12 LinQ Advanced.genruntimeconfig.cache
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 12 LinQ Advanced\Lesson 12 LinQ Advanced\obj\Debug\net10.0\ref\Lesson 12 LinQ Advanced.dll

@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="BookTests/BookTests.csproj" Id="cddb4806-82b0-4dea-8144-7cf3f2d360f3" />
   <Project Path="LinqBookStore/LinqBookStore.csproj" />
 </Solution>

@@ -8,6 +8,8 @@ a method for operating objects is .Select
 }
 
 AGGREGATION
-
-
 list.Count() will return the number of students
+
+
+list.Average(thing => thing.number); returns a double
+to round the output Console.WriteLine($"{averageFromList:F2}");
