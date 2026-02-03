@@ -1,0 +1,15 @@
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\obj\Debug\net10.0\Lesson 7 inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\obj\Debug\net10.0\Lesson 7 inheritance.AssemblyInfoInputs.cache
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\obj\Debug\net10.0\Lesson 7 inheritance.AssemblyInfo.cs
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\obj\Debug\net10.0\Lesson 7 inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\obj\Debug\net10.0\Lesson 7 inheritance.sourcelink.json
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\bin\Debug\net10.0\Lesson 7 inheritance.exe
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\bin\Debug\net10.0\Lesson 7 inheritance.deps.json
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\bin\Debug\net10.0\Lesson 7 inheritance.runtimeconfig.json
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\bin\Debug\net10.0\Lesson 7 inheritance.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\bin\Debug\net10.0\Lesson 7 inheritance.pdb
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\obj\Debug\net10.0\Lesson 7 inheritance.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\obj\Debug\net10.0\refint\Lesson 7 inheritance.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\obj\Debug\net10.0\Lesson 7 inheritance.pdb
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\obj\Debug\net10.0\Lesson 7 inheritance.genruntimeconfig.cache
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 7 inheritance\Lesson 7 inheritance\obj\Debug\net10.0\ref\Lesson 7 inheritance.dll

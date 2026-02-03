@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("introLinq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb3202635047848b8278b9af876de6a0d00f0b5e")]
+=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8097aaa46c277cd3aea26a0f6ce881ea19edaae")]
+>>>>>>> 7682f3e723c2ce245a8aaf543cfa9e966e20adb2
 [assembly: System.Reflection.AssemblyProductAttribute("introLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("introLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

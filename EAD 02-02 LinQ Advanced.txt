@@ -1,0 +1,15 @@
+PROJECTION
+
+a method for operating objects is .Select
+.Select(thing => new
+{
+	thing.value, (this will have the same value in this anon object)
+	NewAttribute = thing.number >= 5? "Is greater": "Is lesser"
+}
+
+AGGREGATION
+list.Count() will return the number of students
+
+
+list.Average(thing => thing.number); returns a double
+to round the output Console.WriteLine($"{averageFromList:F2}");

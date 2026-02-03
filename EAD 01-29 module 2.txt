@@ -17,13 +17,13 @@ var value = things.Where(thing => thing.number >= 5)
 
 PROJECTION - 
 var names = students.Where(s => s.Name.Contains("e"))
-    .Select(s => s.Name);
+    .Select(s => s.Name).ToList();
 
 foreach (string name in names)
 {
     Console.WriteLine(name);
 }
-
+A way to change the data .ToList() transforms the data
 
 
 GROUP

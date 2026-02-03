@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="PointOfSaleSystem/PointOfSaleSystem.csproj" />
+  <Project Path="POSTest/POSTest.csproj" Id="881397cd-a796-4f8e-a22b-aa1043e325ea" />
 </Solution>
