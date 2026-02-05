@@ -1,0 +1,26 @@
+# EF Cor SQLite Database Setup Guide
+
+This guide is for starting a new visual studio solution from scratch and creating a database connection using EF Core.
+
+It provides steps to migrate existing entities into a database.
+
+## Steps
+1. Install the following Nuget Packages:
+    - `Microsoft.EntityFrameworkCore`
+    - `Microsoft.EntityFrameworkCore.Sqlite` 
+    - `Microsoft.EntityFrameworkCore.Sqlite.Design`
+2. Create your entity classes.
+3. Create a new Context class that inherits from DbContext.
+4. In the Context class, for each Entity, create a new public DbSet<> property with standard get and set methods.
+5. Override the OnConfiguring() method and include this line:
+    ```
+    optionsBuilder.UseSqlite("Data Source=yourDatabase.db");
+    ```
+    Replace "yourDatabase" with the actual name of your database
+6. In the Main() method create a new Context class and then call the EnsureCreated() method on its Database Property. For example
+    ```
+    using var context = new MyDbContext();
+    context.Database.EnsureCreated();
+    ```
+7. Build the solution.
+8. The .db file can be found in `\bin\Debug\net10.0` directory of your solution.
