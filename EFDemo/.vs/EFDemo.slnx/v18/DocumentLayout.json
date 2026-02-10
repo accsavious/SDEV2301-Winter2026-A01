@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\EFDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{828C866B-DF07-4780-BDBF-2271CB472ECE}|EFDemo\\EFDemo.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\efdemo\\efdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{828C866B-DF07-4780-BDBF-2271CB472ECE}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FC9F83E-D949-906E-5F99-E02DDBA76C82}|EFDemo\\EFDemo.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\efdemo\\efdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC9F83E-D949-906E-5F99-E02DDBA76C82}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "EFDemo\\Program.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\EFDemo\\EFDemo\\Program.cs",
               "RelativeToolTip": "EFDemo\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAxwCkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T20:14:30.728Z",
               "EditorCaption": ""
