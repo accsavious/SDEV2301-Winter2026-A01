@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oBOtQ3bWTrM=",
+  "dgSpecHash": "EOaOX5JgBzE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetTests\\PetTests.csproj",
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetTests\\PetTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sean\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\Sean\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",

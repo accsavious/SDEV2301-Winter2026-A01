@@ -1,0 +1,67 @@
+Entity Framework Core
+
+Model is made up of classes and objects (like django)
+
+C# packages - nuget
+tools -> NuGet Package Manager -> Manage
+
+using EntityFrameworkCore:
+
+import it first:
+using Microsoft.EntityFrameworkCore;
+
+Then create a session class with DbContext
+public class SchoolContext : DbContext
+{
+    public DbSet<Student> Etudients { get; set; } // this represents a table
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        optionsBuilder.UseSqlite("Data Source=school.db");
+    }
+
+// We can set constraints in this method:
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Student>()
+            .Property(s => s.Name)
+            .IsRequired()
+            .HasMaxLength(100);
+    }
+}
+
+In the main function, we have to create an instance of the Database session
+like this:
+{
+    static void Main(string[] args)
+    {
+	// starts the instance
+        using var context = new SchoolContext();
+	// ensures the database exists, creates it if it doesn't
+        context.Database.EnsureCreated();
+    }
+}
+
+
+protected method  // these methods are available in the parent and children, but nowhere else
+
+
+You can add instances to the table by using list methods
+In the main program:
+
+// prepares the changes for the database
+// we use !context to ensure we only run this if this info doesnt exist yet
+if (!context.Etudients.Any())
+{
+    context.Etudients.AddRange(
+        new Student { Name = "Me", Age = 80000 },
+        new Student { Name = "The Doctor", Age = 0 },
+        new Student { Name = "Rose Tyler", Age = 19 }
+        );
+}
+// sends the change to the database
+context.SaveChanges();
+
+C# lore:
+bin: binary, the compiled working code
+
+.dll file: dynamically linked library
