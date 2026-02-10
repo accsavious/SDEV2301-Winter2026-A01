@@ -1,0 +1,22 @@
+﻿@page "/hello-world"
+@rendermode InteractiveServer
+
+<h3>How much wood could a woodchuck chuck if a woodchuck could chuck wood.</h3>
+<p>The time now is: @DateTime.Now</p>
+
+<p>@Message</p>
+
+<label>Enter some text:</label>
+<input @bind="UserText" />
+
+<p>You typed: @UserText</p>
+
+<button @onclick="() => Count++">Increase</button>
+
+<p>Count: @Count</p>
+
+@code {
+    private string Message = "42 planks of wood!";
+    private string UserText = "";
+    private int Count = 0;
+}
