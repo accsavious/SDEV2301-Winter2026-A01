@@ -1,0 +1,36 @@
+For database entities in classes, we can mark a relationship like this:
+for a one to many relationship
+in the parent table
+public List<ChildClass> ChildClass { get; set; } =new();
+in the child class
+public Course? Course { get; set; }
+
+protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+{
+var dbPath = Path.Combine(
+	AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..", "school.db"
+	);
+
+dbPath = Path.GetFullPath(dbPath);
+optionsBuilder.UseSqlite($"Data Source={dbPath}");
+}
+
+Then in the modelBuilder for the parent,
+add:
+b.HasMany(c => c.Students)
+.WithOne(s => s.Course!);
+
+If your program has an uknown issue
+Build -> rebuild / clean
+it rebuilds the file
+
+Commands
+dotnet tool install --global dotnet-ef
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+
+
+Service class
+
+Ok thanks! I have another question: I notice our Risk to got a 0 in all categories
+for some of us, but one of us only lost 2 marks on the risk register.
