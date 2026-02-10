@@ -1,0 +1,28 @@
+﻿@page "/hello-world"
+@rendermode InteractiveServer
+
+<h3>Fish fear me, women fear me, I am alone in this cruel world</h3>
+
+<p>The current time is: @DateTime.Now</p>
+
+<p>@Message</p>
+
+<label>Enter some text:</label>
+<input @bind="UserText" />
+
+
+<p>You entered @UserText</p>
+
+<p>Count: @Count</p>
+
+<button @onmouseover="IncreaseCount">Increase</button>
+    @code {
+        private string Message = "Stop fishing and get therapy";
+        private string UserText = "";
+        private int Count = 0;
+
+        private void IncreaseCount()
+        {
+            Count++;
+        }
+}

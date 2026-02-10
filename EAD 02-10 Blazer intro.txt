@@ -1,0 +1,28 @@
+BLAZOR
+-Setting a razor page
+@page "/path"
+<p></p>
+
+@code {
+
+}
+
+-Make page interactable?
+at the top of the document, put: @rendermode InteractiveServer
+
+-Linking variables
+In the html portion, in the markup you can put
+@VariableName
+to dynamically link a code variable there
+
+Transpile: Convert high level code to another high level code
+With blazorapp, we can write 
+razor files MUST start with capital character
+
+put ? by varaible to mark it nullable
+
+In debug mode
+Hot reload
+
+Directives/ Binding
+@page "/counter" (defines route to webpage)
