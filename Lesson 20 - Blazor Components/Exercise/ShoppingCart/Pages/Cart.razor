@@ -1,0 +1,50 @@
+﻿@page "/shopping-cart"
+@rendermode InteractiveServer
+
+<h3>Shopping Cart</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Items)
+        {
+            <ItemRow Item="@item" OnShowPrice="ShowPriceMessage" />
+        }
+    </tbody>
+</table>
+
+<h3>@PriceMessage</h3>
+
+@code {
+    public List<Item> Items { get; set; } = new()
+    {
+        new Item {Name = "Furby", Description = "Annoying Monster", Price = 799.99},
+        new Item {Name = "Machine Gun", Description = "Awesome", Price = 1700.01},
+        new Item {Name = "Schrödinger's Cat", Description = "Dead and Alive", Price = 50.44},
+        new Item {Name = "Empty Box", Description = "Full of possibilities", Price = 0.49},
+        new Item {Name = "AI Subscription", Description = "Nothing to see here...", Price = 280.00}
+    };
+
+    public string PriceMessage = "";
+    public void ShowPriceMessage(Item item)
+    {
+        if (item.Price < 100)
+        {
+            PriceMessage = $"That's an affordable {item.Name}.";
+        }
+        else if (item.Price < 1000)
+        {
+            PriceMessage = $"That's a bit pricey for a {item.Name}";
+        }
+        else
+        {
+            PriceMessage = $"Wow that's expensive for a {item.Name}";
+        }
+    }
+}

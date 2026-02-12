@@ -1,0 +1,18 @@
+﻿<tr @onclick="HandleClick" style="cursor: pointer;">
+    <td>@Item.Name</td>
+    <td>@Item.Description</td>
+    <td>@Item.Price</td>
+</tr>
+
+@code {
+    [Parameter]
+    public Item Item { get; set; }
+
+    [Parameter]
+    public EventCallback<Item> OnShowPrice { get; set; }
+
+    private async Task HandleClick()
+    {
+        await OnShowPrice.InvokeAsync(Item);
+    }
+}
