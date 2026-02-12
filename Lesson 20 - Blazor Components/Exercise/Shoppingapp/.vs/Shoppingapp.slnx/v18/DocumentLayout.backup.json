@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\Shoppingapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DEABC2-B1E9-4831-8D8E-1DEE9EB01B4D}|Shoppingapp\\Shoppingapp.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 20 - blazor components\\exercise\\shoppingapp\\shoppingapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DEABC2-B1E9-4831-8D8E-1DEE9EB01B4D}|Shoppingapp\\Shoppingapp.csproj|solutionrelative:shoppingapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DEABC2-B1E9-4831-8D8E-1DEE9EB01B4D}|Shoppingapp\\Shoppingapp.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 20 - blazor components\\exercise\\shoppingapp\\shoppingapp\\components\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9DEABC2-B1E9-4831-8D8E-1DEE9EB01B4D}|Shoppingapp\\Shoppingapp.csproj|solutionrelative:shoppingapp\\components\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\Shoppingapp\\Shoppingapp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shoppingapp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\Shoppingapp\\Shoppingapp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Shoppingapp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T21:15:23.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\Shoppingapp\\Shoppingapp\\Components\\Pages\\Cart.razor",
+              "RelativeDocumentMoniker": "Shoppingapp\\Components\\Pages\\Cart.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\Shoppingapp\\Shoppingapp\\Components\\Pages\\Cart.razor",
+              "RelativeToolTip": "Shoppingapp\\Components\\Pages\\Cart.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T21:07:25.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
