@@ -1,0 +1,11 @@
+right click components -> add -> Razor component
+
+we use the @ symbol to tell razor where code starts
+@ 
+
+<h3>Hello @Name</h3>
+
+@code {
+    [Parameter]
+    public string Name { get; set; }
+}

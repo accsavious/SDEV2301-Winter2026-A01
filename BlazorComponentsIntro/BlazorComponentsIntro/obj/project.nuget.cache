@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EvM5DWxKpzc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\BlazorComponentsIntro\\BlazorComponentsIntro\\BlazorComponentsIntro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sean\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.2\\microsoft.aspnetcore.app.internal.assets.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

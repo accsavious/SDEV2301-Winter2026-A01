@@ -1,0 +1,41 @@
+﻿@page "/"
+@rendermode InteractiveServer
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+@foreach (string name in Names) {
+    <Greeting Name=@name />
+};
+<p>@count</p>
+<ActionButton Label="Plus 1" OnClick="Increment" OnHobbyClick="UpdateHobby"/>
+<br/>
+<ActionButton Label="Minus 1" OnClick="Decrement" OnHobbyClick="UpdateHobby" />
+<p>@HobbyMessage</p>
+
+
+@code {
+
+    public string HobbyMessage = "";
+    private void UpdateHobby(string hobby)
+    {
+        HobbyMessage = $"You like {hobby}";
+    }
+
+    private int count = 0;
+
+    private void Increment()
+    {
+        count++;
+    }
+    private void Decrement()
+    {
+        count--;
+    }
+    private List<string> Names = new()
+    {
+        "Sukmanpreet",
+        "Noella",
+        "Mark",
+        "Adam",
+    };
+}
