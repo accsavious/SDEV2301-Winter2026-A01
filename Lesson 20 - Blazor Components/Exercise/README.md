@@ -49,11 +49,11 @@ Include the `Item.cs` file in your solution.
             - if the price is >= 1000, the Price message should be "Wow that's an expensive for a " followed by the item name.
     
 ### UI
-1. Display a <h3> that says Shopping Cart at the top of the page
+1. Display a h3 that says Shopping Cart at the top of the page
 2. Create a table with the class of "table"
 3. print the Name, Description, and Price as header rows.
 4. For every item in the List<Item>, create a new ItemRow component.
-5. When the user clicks on an item, the PriceMessage must be displayed as an <h3> below the table.
+5. When the user clicks on an item, the PriceMessage must be displayed as an h3 below the table.
 
 ## ItemRow Component
 
