@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FruitTests/FruitTests.csproj" />
+  <Project Path="TupleGuardRails/TupleGuardRails.csproj" />
+</Solution>
