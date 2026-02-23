@@ -3,7 +3,11 @@ using Microsoft.EntityFrameworkCore.Storage;
 
 namespace EfCoreNeighborhood
 {
-    
+    public class Neighborhood
+    {
+        public string name { get; set; }
+
+    }
     internal class Program
     {
         static void Main(string[] args)

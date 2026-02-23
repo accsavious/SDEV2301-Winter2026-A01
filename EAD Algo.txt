@@ -1,0 +1,13 @@
+To migrate the database in C# EFCORE
+These commands in powershell
+Make sure your in the right directory
+
+dotnet tool install --global dotnet-ef
+^Only once per project
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+
+
+to undo migrations
+dotnet ef migrations remove
+
