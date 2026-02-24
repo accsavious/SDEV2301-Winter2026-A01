@@ -3,7 +3,38 @@ using Microsoft.EntityFrameworkCore.Storage;
 
 namespace EfCoreNeighborhood
 {
-    
+    public class Neighborhood
+    {
+        public int Id { get; set; }
+        public string Name { get; set; } = "";
+        public char District { get; set; }
+        public List<House> Houses { get; set; } = new();
+    }
+
+    public class House
+    {
+        public int Id { get; set; }
+        public string Address { get; set; } = "";
+        public string PostalCode { get; set; } = "";
+        public int NeighborhoodId { get; set; }
+        public Neighborhood Neighborhood { get; set; }
+    }
+
+    public class ResidentialContext : DbContext
+    {
+        public DbSet<Neighborhood> Neighborhoods => Set<Neighborhood>();
+        public DbSet<House> Houses => Set<House>();
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            var dbPath = Path.Combine(
+                AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..", "app.db");
+            dbPath = Path.GetFullPath(dbPath);
+
+            optionsBuilder
+        }
+    }
+
     internal class Program
     {
         static void Main(string[] args)

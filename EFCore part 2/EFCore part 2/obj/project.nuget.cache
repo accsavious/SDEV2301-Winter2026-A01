@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+uOdr23GjlU=",
+  "dgSpecHash": "ocaRDHwYstc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\EFCore part 2\\EFCore part 2\\EFCore part 2.csproj",
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\EFCore part 2\\EFCore part 2\\EFCore part 2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sean\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Sean\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
