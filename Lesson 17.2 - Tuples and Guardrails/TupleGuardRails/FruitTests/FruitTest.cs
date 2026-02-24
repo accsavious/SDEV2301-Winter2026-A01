@@ -24,6 +24,7 @@ namespace FruitTests
         [Fact]
         public void GetFruitNameAndPrice_UsingProjection_ReturnsCorrectResults()
         {
+            // Arrange
             List<Fruit> fruits = new List<Fruit>()
             {
                 new Fruit() { Name = "Apple", Price = 0.99, Description = "Crunchy"},
@@ -31,15 +32,18 @@ namespace FruitTests
                 new Fruit() { Name = "Banana", Price = 2.99, Description = "Sweet" }
             };
             FruitService service = new FruitService();
+            // Act
             var result = service.ProjectForListView(fruits);
-            Assert.Equal(
-                [
-                    ("Apple", 0.99),
-                    ("Orange", 1.99),
-                    ("Banana", 2.99)
-                ],
-                result
-            );
+
+            var expected = new List<(string Name, double Price)>()
+            {
+                ("Apple", 0.99),
+                ("Orange", 1.99),
+                ("Banana", 2.99)
+            };
+
+            // Assert
+            Assert.Equal(expected, result);
 
         }
         [Fact]

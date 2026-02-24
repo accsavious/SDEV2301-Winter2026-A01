@@ -1,0 +1,20 @@
+Service class that contains business logic
+no properties
+easy to test... (oh no)
+
+Assert.Equal
+Assert.True
+Assert.False
+Assert.Null
+Assert.Empty(list);
+Assert.NotEmpty(list);
+Assert. 
+
+
+Guardrails are an early exit
+do validation/errors at start of function before executing logic
+
+if condition
+	exit function if data is invalid
+to test guardrails
+ArgumentsNullException.ThrowIfNull(fruits);
