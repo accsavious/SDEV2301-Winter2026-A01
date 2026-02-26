@@ -1,0 +1,15 @@
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\bin\Debug\net10.0\Lesson2CSharp.exe
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\bin\Debug\net10.0\Lesson2CSharp.deps.json
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\bin\Debug\net10.0\Lesson2CSharp.runtimeconfig.json
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\bin\Debug\net10.0\Lesson2CSharp.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\bin\Debug\net10.0\Lesson2CSharp.pdb
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\obj\Debug\net10.0\Lesson2CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\obj\Debug\net10.0\Lesson2CSharp.AssemblyInfoInputs.cache
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\obj\Debug\net10.0\Lesson2CSharp.AssemblyInfo.cs
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\obj\Debug\net10.0\Lesson2CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\obj\Debug\net10.0\Lesson2CSharp.sourcelink.json
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\obj\Debug\net10.0\Lesson2CSharp.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\obj\Debug\net10.0\refint\Lesson2CSharp.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\obj\Debug\net10.0\Lesson2CSharp.pdb
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\obj\Debug\net10.0\Lesson2CSharp.genruntimeconfig.cache
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 02 - C Sharp Fundamentals\Lesson2CSharp\Lesson2CSharp\obj\Debug\net10.0\ref\Lesson2CSharp.dll

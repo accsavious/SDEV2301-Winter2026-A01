@@ -5,6 +5,7 @@ namespace EfCoreNeighborhood
 {
     public class Neighborhood
     {
+<<<<<<< HEAD
         public int Id { get; set; }
         public string Name { get; set; } = "";
         public char District { get; set; }
@@ -35,6 +36,11 @@ namespace EfCoreNeighborhood
         }
     }
 
+=======
+        public string name { get; set; }
+
+    }
+>>>>>>> 1dc6a0ae80db34b63c9f8ecb1a7ae6218fc7f26e
     internal class Program
     {
         static void Main(string[] args)

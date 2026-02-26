@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\BlazorComponentsIntro\\BlazorComponentsIntro\\BlazorComponentsIntro.csproj": {}
+    "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\BlazorComponentsIntro\\BlazorComponentsIntro\\BlazorComponentsIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\BlazorComponentsIntro\\BlazorComponentsIntro\\BlazorComponentsIntro.csproj": {
+    "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\BlazorComponentsIntro\\BlazorComponentsIntro\\BlazorComponentsIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\BlazorComponentsIntro\\BlazorComponentsIntro\\BlazorComponentsIntro.csproj",
+        "projectUniqueName": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\BlazorComponentsIntro\\BlazorComponentsIntro\\BlazorComponentsIntro.csproj",
         "projectName": "BlazorComponentsIntro",
-        "projectPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\BlazorComponentsIntro\\BlazorComponentsIntro\\BlazorComponentsIntro.csproj",
+        "projectPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\BlazorComponentsIntro\\BlazorComponentsIntro\\BlazorComponentsIntro.csproj",
         "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\BlazorComponentsIntro\\BlazorComponentsIntro\\obj\\",
+        "outputPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\BlazorComponentsIntro\\BlazorComponentsIntro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,7 +54,7 @@
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.2, )",
+              "version": "[10.0.3, )",
               "autoReferenced": true
             }
           },
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

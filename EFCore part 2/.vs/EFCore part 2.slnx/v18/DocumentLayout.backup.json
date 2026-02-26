@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\EFCore part 2\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{2C9A2C16-AD57-0806-D366-F56FCFF397C9}|EFCore part 2\\EFCore part 2.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\efcore part 2\\efcore part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C9A2C16-AD57-0806-D366-F56FCFF397C9}|EFCore part 2\\EFCore part 2.csproj|solutionrelative:efcore part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C9A2C16-AD57-0806-D366-F56FCFF397C9}|EFCore part 2\\EFCore part 2.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\efcore part 2\\efcore part 2\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{2C9A2C16-AD57-0806-D366-F56FCFF397C9}|EFCore part 2\\EFCore part 2.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\efcore part 2\\efcore part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9A2C16-AD57-0806-D366-F56FCFF397C9}|EFCore part 2\\EFCore part 2.csproj|solutionrelative:efcore part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9A2C16-AD57-0806-D366-F56FCFF397C9}|EFCore part 2\\EFCore part 2.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\efcore part 2\\efcore part 2\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 1dc6a0ae80db34b63c9f8ecb1a7ae6218fc7f26e
       "RelativeMoniker": "D:0:0:{2C9A2C16-AD57-0806-D366-F56FCFF397C9}|EFCore part 2\\EFCore part 2.csproj|solutionrelative:efcore part 2\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +30,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -44,10 +52,13 @@
               "RelativeDocumentMoniker": "EFCore part 2\\SchoolService.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\EFCore part 2\\EFCore part 2\\SchoolService.cs",
               "RelativeToolTip": "EFCore part 2\\SchoolService.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAADQAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+>>>>>>> 1dc6a0ae80db34b63c9f8ecb1a7ae6218fc7f26e
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T21:04:01.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T21:04:01.443Z"
             },
             {
               "$type": "Document",
@@ -57,7 +68,11 @@
               "RelativeDocumentMoniker": "EFCore part 2\\Program.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\EFCore part 2\\EFCore part 2\\Program.cs",
               "RelativeToolTip": "EFCore part 2\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAADUAAAAAAAAAAAAwwFAAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwEwAAAArAAAAAAAAAA==",
+>>>>>>> 1dc6a0ae80db34b63c9f8ecb1a7ae6218fc7f26e
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T20:02:15Z",
               "EditorCaption": ""

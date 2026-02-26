@@ -18,7 +18,11 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
 build_property.RootNamespace = EfCrud
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Sean\Documents\2026 Winter Nait\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 17 - EF CRUD\EfCrudLesson\EfCrud\
+=======
+build_property.ProjectDir = C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 17 - EF CRUD\EfCrudLesson\EfCrud\
+>>>>>>> 1dc6a0ae80db34b63c9f8ecb1a7ae6218fc7f26e
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 10.0

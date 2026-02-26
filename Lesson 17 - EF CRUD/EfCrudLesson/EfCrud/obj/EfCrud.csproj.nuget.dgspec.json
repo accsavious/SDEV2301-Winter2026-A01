@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\EfCrud.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\EfCrud.csproj",
         "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\obj\\",
+=======
+    "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\EfCrud.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\EfCrud.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\EfCrud.csproj",
+        "projectName": "EfCrud",
+        "projectPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\EfCrud.csproj",
+        "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\obj\\",
+>>>>>>> 1dc6a0ae80db34b63c9f8ecb1a7ae6218fc7f26e
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

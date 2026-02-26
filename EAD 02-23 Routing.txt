@@ -1,0 +1,25 @@
+Routs.razor file is where the magic happens
+
+<router> tag is all the page functionality,
+has a notfoundpage tag
+<Found Context="routData"> fetches the url
+<RoutView> gives the app info about where to render components
+<FocusOnNavigate> 
+
+To link things:
+use the <NavLink> component
+
+<NavLink class="nav-link" href="page_name" Match="NavLinkMatch.All">
+
+Default: Match="NavLinkMatch.Prefix 
+this keeps this link highlighted if the root url matches the href.
+
+Routing parameters
+
+@page "/product/{id:variableType}"
+<p> Product Id: @Id</p>
+
+@code {
+	[Parameter]
+	public int Id { get; set; }
+}
