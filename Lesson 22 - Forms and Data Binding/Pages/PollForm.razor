@@ -1,0 +1,60 @@
+﻿@page "/pollform"
+@using Lesson22Forms.Models
+
+@if (string.IsNullOrWhiteSpace(feedbackMessage))
+{
+    <h3>Poll Form</h3>
+}
+else
+{
+    <h3>@feedbackMessage</h3>
+}
+
+<EditForm Model="model" OnValidSubmit="HandleSubmit">
+    <ValidationSummary />
+    <DataAnnotationsValidator />
+
+    <label>Name:</label>
+    <InputText @bind-Value="model.Name" />
+    <ValidationMessage For="@(() => model.Name)" />
+    <br />
+    <label>City:</label>
+    <InputText @bind-Value="model.City" />
+    <ValidationMessage For="@(() => model.City)" />
+    <br />
+    <InputRadioGroup @bind-Value="@model.Candidate">
+        Candidate:
+        <br>
+        @foreach (var candidate in Candidates)
+        {
+            <InputRadio Value="candidate" />
+            @candidate
+            <br>
+        }
+    </InputRadioGroup>
+    <ValidationMessage For="@(() => model.Candidate)" />
+    <br/>
+    <label>Confidence Level:</label>
+    <InputNumber @bind-Value="model.ConfidenceLevel" />
+    <ValidationMessage For="@(() => model.ConfidenceLevel)" />
+    <br />
+    <button type="submit">Submit</button>
+</EditForm>
+
+@code {
+    Poll model = new();
+    private string? feedbackMessage;
+    private List<string> Candidates = new List<string>
+    {
+        "Dancing Dan",
+        "Roller Blading Guitar Guy",
+        "The Current Mayor",
+        "A rock with googley eyes glued to it"
+    };
+    private void HandleSubmit()
+    {
+        // Called only when the form is valid
+        feedbackMessage = $"{model.Name} is {model.ConfidenceLevel}% confident that " +
+        $"{model.Candidate} would be the best leader for {model.City}";
+    }
+}

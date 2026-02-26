@@ -1,0 +1,35 @@
+﻿@page "/form-demo"
+@using Lesson22Forms.Models;
+
+@if(string.IsNullOrWhiteSpace(feedbackMessage))
+{
+    <h3>Contact Form</h3>
+}
+else
+{
+    <h3>@feedbackMessage</h3>
+}
+<EditForm Model="model" OnValidSubmit="HandleSubmit">
+    <ValidationSummary />
+    <DataAnnotationsValidator />
+    <label>Name:</label>
+    <InputText @bind-Value="model.Name" />
+    <ValidationMessage For="@(() => model.Name)" />
+    <br />
+    <label>Age:</label>
+    <InputNumber @bind-Value="model.Age" />
+    <ValidationMessage For="@(() => model.Age)" />
+    <br />
+    <button type="submit">Submit</button>
+</EditForm>
+
+@code {
+    private ContactForm model = new();
+    private string? feedbackMessage;
+
+    private void HandleSubmit()
+    {
+        // Called only when the form is valid
+        feedbackMessage = $"Thank you, {model.Name}, age {model.Age}, for your submission!";
+    }
+}
