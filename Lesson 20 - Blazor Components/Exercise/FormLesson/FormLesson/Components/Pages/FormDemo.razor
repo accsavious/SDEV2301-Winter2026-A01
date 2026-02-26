@@ -1,0 +1,34 @@
+﻿@page "/form-demo"
+@using FormLesson.Models
+
+@if (!string.IsNullOrWhiteSpace(feedbackMessage))
+{
+    <h3>@feedbackMessage</h3>
+}
+else
+{
+    <h3>Contact Form</h3>
+}
+
+
+<EditForm Model="model" OnValidSubmit="HandleSubmit">
+    <DataAnnotationsValidator />
+    <label>Name: </label>
+    <ValidationMessage For="@(() => model.Name)"/>
+    <InputText @bind-value="model.Name"/>
+    <label>Age: </label>
+    <ValidationMessage For="@(() => model.Age)"/>
+    <InputNumber @bind-Value="model.Age"/>
+    <br/>
+    <button type="submit">Submit</button>
+</EditForm>
+
+@code {
+    private ContactForm model = new ContactForm();
+    private string? feedbackMessage;
+    private void HandleSubmit()
+    {
+        feedbackMessage =
+        $"{model.Name} is {model.Age} years old";
+    }
+}
