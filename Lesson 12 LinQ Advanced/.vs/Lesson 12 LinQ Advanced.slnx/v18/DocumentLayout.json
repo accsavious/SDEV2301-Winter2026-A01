@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 12 LinQ Advanced\\",
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 12 LinQ Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F358C70-208D-4D66-BADE-F31E1ACA4EFB}|Lesson 12 LinQ Advanced\\Lesson 12 LinQ Advanced.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 12 linq advanced\\lesson 12 linq advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F358C70-208D-4D66-BADE-F31E1ACA4EFB}|Lesson 12 LinQ Advanced\\Lesson 12 LinQ Advanced.csproj|solutionrelative:lesson 12 linq advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09ADBCA9-DC52-537F-9198-A08BC8B5AE73}|Lesson 12 LinQ Advanced\\Lesson 12 LinQ Advanced.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 12 linq advanced\\lesson 12 linq advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09ADBCA9-DC52-537F-9198-A08BC8B5AE73}|Lesson 12 LinQ Advanced\\Lesson 12 LinQ Advanced.csproj|solutionrelative:lesson 12 linq advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -26,17 +30,17 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 12 LinQ Advanced\\Lesson 12 LinQ Advanced\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 12 LinQ Advanced\\Lesson 12 LinQ Advanced\\Program.cs",
               "RelativeDocumentMoniker": "Lesson 12 LinQ Advanced\\Program.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 12 LinQ Advanced\\Lesson 12 LinQ Advanced\\Program.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 12 LinQ Advanced\\Lesson 12 LinQ Advanced\\Program.cs",
               "RelativeToolTip": "Lesson 12 LinQ Advanced\\Program.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAJcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T20:02:29.9Z",
               "EditorCaption": ""

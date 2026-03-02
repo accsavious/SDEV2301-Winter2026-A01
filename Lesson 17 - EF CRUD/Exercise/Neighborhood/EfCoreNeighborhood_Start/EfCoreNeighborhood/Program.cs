@@ -5,10 +5,15 @@ namespace EfCoreNeighborhood
 {
     public class Neighborhood
     {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 94f237f2eb83d89fc3bef24e7fa7338835703115
         public int Id { get; set; }
         public string Name { get; set; } = "";
         public char District { get; set; }
         public List<House> Houses { get; set; } = new();
+<<<<<<< HEAD
     }
 
     public class House
@@ -50,6 +55,39 @@ namespace EfCoreNeighborhood
         }
     }
 
+=======
+    }
+
+    public class House
+    {
+        public int Id { get; set; }
+        public string Address { get; set; } = "";
+        public string PostalCode { get; set; } = "";
+        public int NeighborhoodId { get; set; }
+        public Neighborhood Neighborhood { get; set; }
+    }
+
+    public class ResidentialContext : DbContext
+    {
+        public DbSet<Neighborhood> Neighborhoods => Set<Neighborhood>();
+        public DbSet<House> Houses => Set<House>();
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            var dbPath = Path.Combine(
+                AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..", "app.db");
+            dbPath = Path.GetFullPath(dbPath);
+
+            optionsBuilder
+        }
+    }
+
+=======
+        public string name { get; set; }
+
+    }
+>>>>>>> 1dc6a0ae80db34b63c9f8ecb1a7ae6218fc7f26e
+>>>>>>> 94f237f2eb83d89fc3bef24e7fa7338835703115
     internal class Program
     {
         static void Main(string[] args)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TupleGuardRails")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0fe5b723ad619c313fef54c0b0f2e6b781ed923")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+945dc118042ec1a8988dcd7e732c8708f3d303dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TupleGuardRails")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TupleGuardRails")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

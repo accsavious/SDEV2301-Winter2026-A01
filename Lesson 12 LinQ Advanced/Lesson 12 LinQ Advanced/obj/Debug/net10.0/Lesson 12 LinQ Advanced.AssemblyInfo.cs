@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson 12 LinQ Advanced")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1079e6e49cccd97138d2db516fdbdfe3c70d2fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+945dc118042ec1a8988dcd7e732c8708f3d303dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson 12 LinQ Advanced")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson 12 LinQ Advanced")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
