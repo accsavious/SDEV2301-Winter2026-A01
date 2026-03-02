@@ -1,0 +1,39 @@
+﻿@page "/"
+@using Lesson24Demo.Services
+@inject TimerService TimerService
+@inject MessageService MessageService
+@inject ColorService ColorService
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+
+<h2>Using injected TimerService in page</h2>
+<p>The time is: @TimerService.GetCurrentTime()</p>
+
+<h2>Using injected Message in page</h2>
+<p>@MessageService.GetGreeting()</p>
+
+<h2>Task 5 — Display Quote on Button Click</h2>
+<p>@quote</p>
+<button @onclick="ShowQuote">Get Quote</button>
+
+<div style="background-color: @currentColor">
+    This is my colored box.
+</div>
+<button @onclick="ChangeColor">Change Color</button>
+@code {
+    private string currentColor = "#FFFFFF";
+    private string quote;
+
+    private void ShowQuote()
+    {
+        quote = MessageService.GetRandomQuote();
+    }
+
+    private void ChangeColor()
+    {
+        currentColor = ColorService.GetRandomColor();
+    }
+}
