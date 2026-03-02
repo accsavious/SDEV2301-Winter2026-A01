@@ -5,39 +5,83 @@ namespace EfCoreNeighborhood
 {
     public class Neighborhood
     {
-        public string name { get; set; }
-
+        public int Id { get; set; }
+        public string Name { get; set; } = "";
+        public char District { get; set; }
+        public List<House> Houses { get; set; } = new();
     }
+
+    public class House
+    {
+        public int Id { get; set; }
+        public string Address { get; set; } = "";
+        public string PostalCode { get; set; } = "";
+        public int NeighborhoodId { get; set; }
+        public Neighborhood? Neighborhood { get; set; }
+    }
+
+    public class ResedentialContext : DbContext
+    {
+        public DbSet<Neighborhood> Neighborhoods => Set<Neighborhood>();
+        public DbSet<House> Houses => Set<House>();
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            var dbPath = Path.Combine(
+                AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..", "residential.db");
+            dbPath = Path.GetFullPath(dbPath);
+            optionsBuilder.UseSqlite($"Data Source={dbPath}");
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<House>(h =>
+            {
+                h.Property(h => h.Address).HasMaxLength(80).IsRequired();
+                h.Property(h => h.PostalCode).HasMaxLength(6).IsRequired();
+            });
+            modelBuilder.Entity<Neighborhood>(n =>
+            {
+                n.Property(n => n.Name).HasMaxLength(100).IsRequired();
+                n.Property(n => n.District).IsRequired();
+                n.HasMany(n => n.Houses).WithOne(h => h.Neighborhood)
+                .HasForeignKey(h => h.NeighborhoodId).OnDelete(DeleteBehavior.Cascade);
+            });
+        }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
         {
-            
 
-            //CreateNeighborhood(context);
-            //Neighborhood neighborhood = GetOnlyNeighborhoodByName(context, "Garneau");
-            //Console.WriteLine("Created New Neighborhood");
-            //PrintNeighborhood(neighborhood);
+            using var context = new ResedentialContext();
+            context.Database.Migrate();
+            var serve = new NeighborhoodServices();
+            serve.CreateNeighborhood(context);
+            Neighborhood? neighborhood = serve.GetOnlyNeighborhoodByName(context, "Garneau");
+            Console.WriteLine("Created New Neighborhood");
+            serve.PrintNeighborhood(neighborhood);
 
-            //if (neighborhood != null)
-                //CreateHouses(context, neighborhood);
+            if (neighborhood != null)
+            serve.CreateHouses(context, neighborhood);
 
-            //Console.WriteLine("Added houses to Neighborhood");
-            //neighborhood = GetNeighborhoodAndHousesByName(context, "Garneau");
-            //PrintNeighborhood(neighborhood);
+            Console.WriteLine("Added houses to Neighborhood");
+            neighborhood = serve.GetNeighborhoodAndHousesByName(context, "Garneau");
+            serve.PrintNeighborhood(neighborhood);
 
-            //UpdateDistrict(context, neighborhood, 'G');
-            //UpdateAddress(context, 2, "999 Pizza Place");
-            //neighborhood = GetNeighborhoodAndHousesByName(context, "Garneau");
-            //PrintNeighborhood(neighborhood);
+            serve.UpdateDistrict(context, neighborhood, 'G');
+            serve.UpdateAddress(context, 2, "999 Pizza Place");
+            neighborhood = serve.GetNeighborhoodAndHousesByName(context, "Garneau");
+            serve.PrintNeighborhood(neighborhood);
 
-            //RemoveHouseById(context, 1);
-            //neighborhood = GetNeighborhoodAndHousesByName(context, "Garneau");
-            //PrintNeighborhood(neighborhood);
+            serve.RemoveHouseById(context, 1);
+            neighborhood = serve.GetNeighborhoodAndHousesByName(context, "Garneau");
+            serve.PrintNeighborhood(neighborhood);
 
-            //RemoveNeighborhood(context, neighborhood);
-            //neighborhood = GetNeighborhoodAndHousesByName(context, "Garneau");
-            //PrintNeighborhood(neighborhood);
+            serve.RemoveNeighborhood(context, neighborhood);
+            neighborhood = serve.GetNeighborhoodAndHousesByName(context, "Garneau");
+            serve.PrintNeighborhood(neighborhood);
         }
     }
 }

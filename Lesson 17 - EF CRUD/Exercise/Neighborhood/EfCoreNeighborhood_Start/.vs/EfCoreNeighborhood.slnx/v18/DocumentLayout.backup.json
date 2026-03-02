@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{44866E8E-FABC-FDF0-6849-9297EE63EB67}|EfCoreNeighborhood\\EfCoreNeighborhood.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 17 - ef crud\\exercise\\neighborhood\\efcoreneighborhood_start\\efcoreneighborhood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44866E8E-FABC-FDF0-6849-9297EE63EB67}|EfCoreNeighborhood\\EfCoreNeighborhood.csproj|solutionrelative:efcoreneighborhood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44866E8E-FABC-FDF0-6849-9297EE63EB67}|EfCoreNeighborhood\\EfCoreNeighborhood.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 17 - ef crud\\exercise\\neighborhood\\efcoreneighborhood_start\\efcoreneighborhood\\neighborhoodservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44866E8E-FABC-FDF0-6849-9297EE63EB67}|EfCoreNeighborhood\\EfCoreNeighborhood.csproj|solutionrelative:efcoreneighborhood\\neighborhoodservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +38,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NeighborhoodServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\Exercise\\Neighborhood\\EfCoreNeighborhood_Start\\EfCoreNeighborhood\\NeighborhoodServices.cs",
+              "RelativeDocumentMoniker": "EfCoreNeighborhood\\NeighborhoodServices.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\Exercise\\Neighborhood\\EfCoreNeighborhood_Start\\EfCoreNeighborhood\\NeighborhoodServices.cs",
+              "RelativeToolTip": "EfCoreNeighborhood\\NeighborhoodServices.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:55:47.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\Exercise\\Neighborhood\\EfCoreNeighborhood_Start\\EfCoreNeighborhood\\Program.cs",
               "RelativeDocumentMoniker": "EfCoreNeighborhood\\Program.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\Exercise\\Neighborhood\\EfCoreNeighborhood_Start\\EfCoreNeighborhood\\Program.cs",
               "RelativeToolTip": "EfCoreNeighborhood\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wEYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T21:24:25.985Z",
               "EditorCaption": ""

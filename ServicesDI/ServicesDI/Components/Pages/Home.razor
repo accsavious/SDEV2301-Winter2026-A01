@@ -1,0 +1,25 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@using ServicesDI.Services
+@inject TimerService TimerService
+@inject MessageService MessageService
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+<h2>Current Time:</h2>
+<p>@TimerService.GetCurrentTime</p>
+<p>@MessageService.GetGreeting()</p>
+
+<h4>@quote</h4>
+<button @onclick="ShowQuote">
+    Get Fortune
+</button>
+
+@code {
+    private string? quote;
+    private void ShowQuote()
+    {
+        quote = MessageService.GetRandomQuote();
+    }
+}
