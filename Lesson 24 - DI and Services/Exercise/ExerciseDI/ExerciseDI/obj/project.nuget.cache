@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WiTU3tRLp0g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\ExerciseDI\\ExerciseDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sean\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

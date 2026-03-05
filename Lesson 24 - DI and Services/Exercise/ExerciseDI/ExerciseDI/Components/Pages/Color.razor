@@ -1,0 +1,42 @@
+﻿@page "/color"
+@rendermode InteractiveServer
+@using ExerciseDI.Services
+@inject ColorService ColorService
+@inject TipCalculatorService TipCalculatorService
+<h3>Color</h3>
+<div style="background-color: @currentColor">This is a colored box</div>
+<button onclick="@SetColor">Change Color</button>
+<label for="bill">Bill</label>
+<input @bind="billAmount" type="number" id="bill" name="bill"/>
+<label for="tip">Tip Percentage</label>
+<input @bind="tipPercentage" type="number" id="tip" name="tip"/>
+<label for="people">Number of People</label>
+<input @bind="numberOfPeople" type="number" id="people" name="people"/>
+
+<button onclick="@calculate">Calculate</button>
+<p>Tip: @tipAmount</p>
+<p>Total: @total</p>
+<p>Per Person: @perPerson</p>
+@code {
+    public string? currentColor;
+    public void SetColor()
+    {
+        currentColor = ColorService.GetRandomColor();
+    }
+
+
+    public decimal billAmount;
+    public int tipPercentage;
+    public int numberOfPeople;
+
+    public decimal tipAmount = 0;
+    public decimal total = 0;
+    public decimal perPerson = 0;
+
+    public void calculate()
+    {
+        tipAmount = TipCalculatorService.CalculateTip(billAmount, tipPercentage);
+        total = TipCalculatorService.CalculateTotal(billAmount, tipPercentage);
+        perPerson = TipCalculatorService.SplitTotal(billAmount, tipPercentage, numberOfPeople);
+    }
+}

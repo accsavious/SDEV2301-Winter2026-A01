@@ -20,21 +20,8 @@
         {
           "DockedWidth": 200,
 <<<<<<< HEAD
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\StudentService.cs",
-              "RelativeDocumentMoniker": "EfCrud\\StudentService.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\StudentService.cs*",
-              "RelativeToolTip": "EfCrud\\StudentService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T21:29:28.285Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -57,6 +44,22 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+<<<<<<< HEAD
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\StudentService.cs",
+              "RelativeDocumentMoniker": "EfCrud\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 17 - EF CRUD\\EfCrudLesson\\EfCrud\\StudentService.cs",
+              "RelativeToolTip": "EfCrud\\StudentService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T21:29:28.285Z",
+              "EditorCaption": ""
+=======
+>>>>>>> 1dc6a0ae80db34b63c9f8ecb1a7ae6218fc7f26e
             }
           ]
         }

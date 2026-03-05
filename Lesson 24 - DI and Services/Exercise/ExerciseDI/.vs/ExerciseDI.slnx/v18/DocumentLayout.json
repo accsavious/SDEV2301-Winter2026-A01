@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56F383-7F4D-4F35-9983-3027D7A20F43}|ExerciseDI\\ExerciseDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 24 - di and services\\exercise\\exercisedi\\exercisedi\\components\\pages\\color.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B56F383-7F4D-4F35-9983-3027D7A20F43}|ExerciseDI\\ExerciseDI.csproj|solutionrelative:exercisedi\\components\\pages\\color.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56F383-7F4D-4F35-9983-3027D7A20F43}|ExerciseDI\\ExerciseDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 24 - di and services\\exercise\\exercisedi\\exercisedi\\services\\tipcalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B56F383-7F4D-4F35-9983-3027D7A20F43}|ExerciseDI\\ExerciseDI.csproj|solutionrelative:exercisedi\\services\\tipcalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56F383-7F4D-4F35-9983-3027D7A20F43}|ExerciseDI\\ExerciseDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 24 - di and services\\exercise\\exercisedi\\exercisedi\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B56F383-7F4D-4F35-9983-3027D7A20F43}|ExerciseDI\\ExerciseDI.csproj|solutionrelative:exercisedi\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56F383-7F4D-4F35-9983-3027D7A20F43}|ExerciseDI\\ExerciseDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 24 - di and services\\exercise\\exercisedi\\exercisedi\\services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B56F383-7F4D-4F35-9983-3027D7A20F43}|ExerciseDI\\ExerciseDI.csproj|solutionrelative:exercisedi\\services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B56F383-7F4D-4F35-9983-3027D7A20F43}|ExerciseDI\\ExerciseDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 24 - di and services\\exercise\\exercisedi\\exercisedi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B56F383-7F4D-4F35-9983-3027D7A20F43}|ExerciseDI\\ExerciseDI.csproj|solutionrelative:exercisedi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\ExerciseDI\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ExerciseDI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\ExerciseDI\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ExerciseDI\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T22:18:53.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Color.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\ExerciseDI\\Components\\Pages\\Color.razor",
+              "RelativeDocumentMoniker": "ExerciseDI\\Components\\Pages\\Color.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\ExerciseDI\\Components\\Pages\\Color.razor",
+              "RelativeToolTip": "ExerciseDI\\Components\\Pages\\Color.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T21:34:59.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\ExerciseDI\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciseDI\\Program.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\ExerciseDI\\Program.cs",
+              "RelativeToolTip": "ExerciseDI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:34:02.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\ExerciseDI\\Services\\ColorService.cs",
+              "RelativeDocumentMoniker": "ExerciseDI\\Services\\ColorService.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\ExerciseDI\\Services\\ColorService.cs",
+              "RelativeToolTip": "ExerciseDI\\Services\\ColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:31:43.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "7eacd129-e492-418b-8ef3-7fded794181f",
+        "Display": 0,
+        "X": 435,
+        "Y": 53,
+        "Width": 965,
+        "Height": 663,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipCalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\ExerciseDI\\Services\\TipCalculatorService.cs",
+              "RelativeDocumentMoniker": "ExerciseDI\\Services\\TipCalculatorService.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 24 - DI and Services\\Exercise\\ExerciseDI\\ExerciseDI\\Services\\TipCalculatorService.cs",
+              "RelativeToolTip": "ExerciseDI\\Services\\TipCalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:59:06.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
