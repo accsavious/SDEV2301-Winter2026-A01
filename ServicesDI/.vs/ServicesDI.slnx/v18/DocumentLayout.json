@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C194DFD-DA26-4F3F-9C01-CD5137BA80C3}|ServicesDI\\ServicesDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\servicesdi\\servicesdi\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C194DFD-DA26-4F3F-9C01-CD5137BA80C3}|ServicesDI\\ServicesDI.csproj|solutionrelative:servicesdi\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C194DFD-DA26-4F3F-9C01-CD5137BA80C3}|ServicesDI\\ServicesDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\servicesdi\\servicesdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C194DFD-DA26-4F3F-9C01-CD5137BA80C3}|ServicesDI\\ServicesDI.csproj|solutionrelative:servicesdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C194DFD-DA26-4F3F-9C01-CD5137BA80C3}|ServicesDI\\ServicesDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\servicesdi\\servicesdi\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C194DFD-DA26-4F3F-9C01-CD5137BA80C3}|ServicesDI\\ServicesDI.csproj|solutionrelative:servicesdi\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C194DFD-DA26-4F3F-9C01-CD5137BA80C3}|ServicesDI\\ServicesDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\servicesdi\\servicesdi\\services\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C194DFD-DA26-4F3F-9C01-CD5137BA80C3}|ServicesDI\\ServicesDI.csproj|solutionrelative:servicesdi\\services\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "ServicesDI\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Services\\MessageService.cs",
+              "RelativeToolTip": "ServicesDI\\Services\\MessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T20:28:07.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ServicesDI\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ServicesDI\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T20:20:21.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Program.cs",
+              "RelativeDocumentMoniker": "ServicesDI\\Program.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Program.cs",
+              "RelativeToolTip": "ServicesDI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T20:13:11.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimerService.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Services\\TimerService.cs",
+              "RelativeDocumentMoniker": "ServicesDI\\Services\\TimerService.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Services\\TimerService.cs",
+              "RelativeToolTip": "ServicesDI\\Services\\TimerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T20:11:16.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

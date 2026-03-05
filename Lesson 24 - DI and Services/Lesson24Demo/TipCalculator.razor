@@ -1,0 +1,35 @@
+﻿@page "/tip-calculator"
+@using Lesson24Demo.Services
+@inject TipCalculatorService TipCalculatorService
+
+<h1>Tip Calculator</h1>
+<label>Bill Amount:</label>
+<InputNumber @bind-Value="billAmount" />
+<br />
+<label>Tip Percentage:</label>
+<InputNumber @bind-Value="tipPercentage" />
+<br />
+<label>Number of People:</label>
+<InputNumber @bind-Value="numberOfPeople" />
+<br />
+<button @onclick="Calculate">Calculate</button>
+
+<h3>@message</h3>
+
+@code {
+    private decimal billAmount = 0;
+    private int tipPercentage = 0;
+    private int numberOfPeople = 0;
+    private decimal tipAmount = 0;
+    private decimal total = 0;
+    private decimal perPerson = 0;
+    private string message = "";
+
+    private void Calculate()
+    {
+        tipAmount = TipCalculatorService.CalculateTip(billAmount, tipPercentage);
+        total = TipCalculatorService.CalculateTotal(billAmount, tipPercentage);
+        perPerson = TipCalculatorService.SplitTotal(billAmount, tipPercentage, numberOfPeople);
+        message = $"Tip Amount: {tipAmount}; Total: {total}; Per Person: {perPerson}";
+    }
+}

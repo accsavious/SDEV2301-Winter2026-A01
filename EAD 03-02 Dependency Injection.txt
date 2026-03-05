@@ -1,0 +1,26 @@
+Dependency Injection
+'Injecting' functions and objects it needs, rather than creating them internally.
+
+You make a service class
+You connect it in the program.cs
+
+Components of blazor app
+Service class
+sent to the di container
+DI container
+
+Consumer
+When the user picks it, the DI container serves the service 
+
+We have to register services
+AddScoped
+AddSingleton<>(); This persists.
+AddTransient This is instanced, then deleted after
+
+In program.cs add 
+builder.Services.AddSingleton<ClassName>();
+
+Then on the webpage
+
+@using ProjectName.ServiceFolder
+@inject ServiceName ServiceName

@@ -1,0 +1,55 @@
+To add a database class to a blazor app, in the program.cs you have to add it to the main class as:
+
+builder.Services.AddDbContextFactory<AppDbContext>(options =>
+options.UseSqlite("Data Source=app.db"));
+
+This functions similar to dependency injection
+
+Then after builder.build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    dbContext.Database.EnsureCreated();
+}
+This creates a scoped instance of our db context
+
+IN THE SERVICE CLASS:
+We use this to create a referenceable context.
+We use it to create instances.
+This is thread safe
+private readonly IDbContextFactory<AppDbContext> _dbContextFactory;
+
+
+Computer science note: threading
+Our computer runs processes along a single "thread"
+Our computers are multi-threaded, and can run many parallel threads
+This runs the risk of requesting multiple processes all trying to do the same thing.
+This can crash the program
+You need 'thread safe' process.
+
+An async method that returns value mast preceed its return type with Task
+Like
+public async Task<List<string>> ThisAsyncMethod()
+If its void
+public async Task ThisTask();
+
+If we have async, the return must have await
+
+return await listOfStrings
+
+We must create a context in each service method scope
+using var context = _dbContextFactory.CreateDbContext();
+
+service class methods MUST be registered
+
+Note, unrelated:Transient is destroyed after each operation
+
+In the page we must @using and @inject the components, but also use
+@inject IJSRuntime JSRuntime
+
+To run js in C#, use InvokeAsync<bool>
+<bool> is the expected return type
+
+bool confirmed = await JSRuntime.InvokeAsync<bool>(
+    "confirm", "Are you sure you want to delete this?");

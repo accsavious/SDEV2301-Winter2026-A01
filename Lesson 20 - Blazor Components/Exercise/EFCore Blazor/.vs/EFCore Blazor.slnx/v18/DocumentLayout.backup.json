@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\EFCore Blazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E68734-9287-4F2A-92FB-EA5BBB29B588}|EFCore Blazor\\EFCore Blazor.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 20 - blazor components\\exercise\\efcore blazor\\efcore blazor\\components\\pages\\productpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E68734-9287-4F2A-92FB-EA5BBB29B588}|EFCore Blazor\\EFCore Blazor.csproj|solutionrelative:efcore blazor\\components\\pages\\productpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E68734-9287-4F2A-92FB-EA5BBB29B588}|EFCore Blazor\\EFCore Blazor.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 20 - blazor components\\exercise\\efcore blazor\\efcore blazor\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E68734-9287-4F2A-92FB-EA5BBB29B588}|EFCore Blazor\\EFCore Blazor.csproj|solutionrelative:efcore blazor\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E68734-9287-4F2A-92FB-EA5BBB29B588}|EFCore Blazor\\EfCoreBlazorDemo.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 20 - blazor components\\exercise\\efcore blazor\\efcore blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0E68734-9287-4F2A-92FB-EA5BBB29B588}|EFCore Blazor\\EfCoreBlazorDemo.csproj|solutionrelative:efcore blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E68734-9287-4F2A-92FB-EA5BBB29B588}|EFCore Blazor\\EFCore Blazor.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 20 - blazor components\\exercise\\efcore blazor\\efcore blazor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E68734-9287-4F2A-92FB-EA5BBB29B588}|EFCore Blazor\\EFCore Blazor.csproj|solutionrelative:efcore blazor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E68734-9287-4F2A-92FB-EA5BBB29B588}|EFCore Blazor\\EFCore Blazor.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 20 - blazor components\\exercise\\efcore blazor\\efcore blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0E68734-9287-4F2A-92FB-EA5BBB29B588}|EFCore Blazor\\EFCore Blazor.csproj|solutionrelative:efcore blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\EFCore Blazor\\EFCore Blazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "EFCore Blazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\EFCore Blazor\\EFCore Blazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "EFCore Blazor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T18:10:48.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductPage.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\EFCore Blazor\\EFCore Blazor\\Components\\Pages\\ProductPage.razor",
+              "RelativeDocumentMoniker": "EFCore Blazor\\Components\\Pages\\ProductPage.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\EFCore Blazor\\EFCore Blazor\\Components\\Pages\\ProductPage.razor",
+              "RelativeToolTip": "EFCore Blazor\\Components\\Pages\\ProductPage.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T17:59:56.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\EFCore Blazor\\EFCore Blazor\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EFCore Blazor\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\EFCore Blazor\\EFCore Blazor\\Services\\ProductService.cs",
+              "RelativeToolTip": "EFCore Blazor\\Services\\ProductService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:25:26.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\EFCore Blazor\\EFCore Blazor\\Program.cs",
+              "RelativeDocumentMoniker": "EFCore Blazor\\Program.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\EFCore Blazor\\EFCore Blazor\\Program.cs",
+              "RelativeToolTip": "EFCore Blazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:09:41.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\EFCore Blazor\\EFCore Blazor\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore Blazor\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 20 - Blazor Components\\Exercise\\EFCore Blazor\\EFCore Blazor\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EFCore Blazor\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:05:34.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
