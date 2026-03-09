@@ -1,0 +1,15 @@
+﻿<h3>CounterChild</h3>
+
+<p role="status">Current count: @CurrentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">CounterChild</button>
+
+<CounterGrandChild />
+@code {
+    public int CurrentCount { get; set; }
+
+    private void IncrementCount()
+    {
+        CurrentCount++;
+    }
+}

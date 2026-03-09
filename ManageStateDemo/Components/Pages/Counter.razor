@@ -1,0 +1,23 @@
+﻿@page "/counter"
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Increment Parent</button>
+<CascadingValue Value="@currentCount" Name="Counter">
+<CascadingValue Value="@deskSize" Name="DeskSize">
+    <CounterChild />
+</CascadingValue>
+</CascadingValue>
+@code {
+    private int currentCount = 0;
+    private int deskSize = 0;
+    private void IncrementCount()
+    {
+        currentCount++;
+        deskSize += 2;
+    }
+}
