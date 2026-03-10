@@ -1,0 +1,42 @@
+Authorization
+Do you have authority to access this?
+
+New state provider that inherits from
+AuthorizationStateProvider // auth context
+
+CascadingAuthenticationState // auth context wrapper
+
+AuthenticationState creates an instance of ClaimsPrincipal
+ClaimsPrincipal is an object made up of ClaimsIdentitys
+ClaimsIdentity which itself made up of claims
+a claim is a statement or fact about a user.
+like a key:value pair
+verified by authentication
+CI is basically
+
+First you make a auth class:
+AuthProviderName : AuthenticationStateProvider
+
+set up the provider 
+private readonly AuthService _authService;
+public FakeAuthProvider(AuthService authService)
+{
+    _authService = authService;
+}
+
+and set the async method GetAuthenticationStateAsync()
+Where we build a ClaimsPrincipal
+
+Then we register in Program with 
+            builder.Services.AddAuthenticationCore();
+            builder.Services.AddScoped<AuthService>();
+            builder.Services.AddScoped<AuthenticationStateProvider, 			    FakeAuthProvider>();
+Then in Routes.razor
+we wrap the router in the <CascadingAuthenticationState> element
+add a <NotFound> component as sibling of <Found>
+
+
+
+
+
+OAuth to authenticate
