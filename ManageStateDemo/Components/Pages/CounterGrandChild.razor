@@ -1,0 +1,22 @@
+﻿<h3>CounterGrandChild</h3>
+
+
+<p role="status">Current count: @CurrentCount</p>
+<p role="status">Current desk size: @DeskSize</p>
+
+<button class="btn btn-warning" @onclick="IncrementCount">CounterGrandChild</button>
+
+@code {
+    [CascadingParameter(Name = "Counter")]
+    public int CurrentCount { get; set; }
+
+    [CascadingParameter(Name = "DeskSize")]
+    public int DeskSize { get; set;}
+
+
+    private void IncrementCount()
+    {
+        CurrentCount++;
+        DeskSize += 2;
+    }
+}

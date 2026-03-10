@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFCore part 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0128fd275aabb449c2728f94973a94633bac2881")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dda4df3e0828d923eafac2228905139ef6acf3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFCore part 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFCore part 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

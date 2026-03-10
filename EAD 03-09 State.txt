@@ -1,0 +1,33 @@
+State: values stored between page sessions
+
+Group Project released
+
+We can pass variables into the parameter of a child
+Passing values down through properties gets out of hand when passed through many
+components
+Contexts
+
+<CascadingValue Value="valueName">
+	<WrappedComponents
+</CascadingValue>
+
+We can pull the Value into a parameter with
+[CascadingParameter(Name = "Counter")]
+	public int ValueName { get; set;}
+We can do multiple if we name them and use multiple wrappers
+
+<CascadingValue Value="@currentCount" Name="Counter">
+<CascadingValue Value="@deskSize" Name="DeskSize">
+    <CounterChild />
+</CascadingValue>
+</CascadingValue>
+
+[CascadingParameter(Name = "Counter")]
+	public int CurrentCount { get; set; }
+[CascadingParameter(Name = "Another")]
+	public string AnotherValue { get; set;}
+
+Service types
+Singleton: Only a single instance
+Scoped: Once per user session
+Transient: lives on a single line of code
