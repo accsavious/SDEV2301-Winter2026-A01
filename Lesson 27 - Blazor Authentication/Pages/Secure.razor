@@ -1,0 +1,8 @@
+﻿@page "/secure"
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
+
+<h1>Secure Page</h1>
+
+<p>If you can read this, you’re logged in.</p>
+<p>This is content that should only be visible to authenticated users.</p>
