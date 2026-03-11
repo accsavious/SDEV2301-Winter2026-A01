@@ -1,0 +1,32 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+
+<Greeting Name="Jared"/>
+<Greeting Name="Brijesh"/>
+<Greeting Name="MacKenzie"/>
+
+<p>@count</p>
+
+<ActionButton Label="Add" OnClick="Increment" OnClickHobby="UpdateHobby"/>
+<br />
+<ActionButton Label="Subtract" OnClick="Decrement" OnClickHobby="UpdateHobby" />
+
+<h2>@HobbyMessage</h2>
+@code {
+    private int count = 0;
+    private string HobbyMessage = "";
+    private void Increment()
+    {
+        count++;
+    }
+    private void Decrement()
+    {
+        count--;
+    }
+    private void UpdateHobby(string hobby)
+    {
+        HobbyMessage = $"You like {hobby}!";
+    }
+}

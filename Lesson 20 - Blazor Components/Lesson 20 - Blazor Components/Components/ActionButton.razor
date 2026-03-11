@@ -1,0 +1,24 @@
+﻿<button @onclick="OnClick">
+    @Label
+</button>
+<label>What is your favorite hobby?</label>
+<input @bind="Hobby"/>
+<button @onclick="HandleHobby">Hobby Message</button>
+
+@code {
+    [Parameter]
+    public string Label { get; set; }
+
+    [Parameter]
+    public EventCallback OnClick { get; set; }
+
+    [Parameter]
+    public EventCallback<string> OnClickHobby { get; set; }
+
+    public string Hobby { get; set; }
+
+    private async Task HandleHobby()
+    {
+        await OnClickHobby.InvokeAsync(Hobby);
+    }
+}

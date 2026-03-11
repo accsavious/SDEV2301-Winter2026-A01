@@ -45,8 +45,8 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 Components\Layout\ReconnectModal.razor.js
-C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.3\build\..\_framework\blazor.web.js
-C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.3\build\..\_framework\blazor.server.js
+C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.4\build\..\_framework\blazor.web.js
+C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.4\build\..\_framework\blazor.server.js
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\wwwroot\app.css
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -93,5 +93,5 @@ C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A0
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\Components\Layout\ReconnectModal.razor.js
-C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.3\_framework\blazor.web.js
-C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.3\_framework\blazor.server.js
+C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.4\_framework\blazor.web.js
+C:\Users\Sean\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.4\_framework\blazor.server.js

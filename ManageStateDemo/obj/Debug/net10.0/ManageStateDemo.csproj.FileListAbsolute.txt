@@ -70,8 +70,6 @@ C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A0
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\compressed\46wyggqrc4-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\compressed\tzbkxp35yw-{0}-0j3bgjxly4-0j3bgjxly4.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\compressed\4op8rd8xpz-{0}-abdmv1u4y3-abdmv1u4y3.gz
-C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\compressed\c6f2ziaqdw-{0}-ax6tuj8tun-ax6tuj8tun.gz
-C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\compressed\0am2zw4wrg-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\compressed\1o39fnln51-{0}-s5jjp12j1v-s5jjp12j1v.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\compressed\fxyfrkex0r-{0}-s5jjp12j1v-s5jjp12j1v.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\staticwebassets.build.json
@@ -85,3 +83,5 @@ C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A0
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\ManageStateDemo.pdb
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\ManageStateDemo.genruntimeconfig.cache
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\ref\ManageStateDemo.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\compressed\c6f2ziaqdw-{0}-mgww215af1-mgww215af1.gz
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ManageStateDemo\obj\Debug\net10.0\compressed\0am2zw4wrg-{0}-dy8h75y8gn-dy8h75y8gn.gz

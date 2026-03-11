@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ManageStateDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|solutionrelative:components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|solutionrelative:components\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|solutionrelative:components\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|solutionrelative:components\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\services\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|solutionrelative:services\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\services\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|solutionrelative:services\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\pages\\countergrandchild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|solutionrelative:components\\pages\\countergrandchild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\pages\\countergrandchild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|solutionrelative:components\\pages\\countergrandchild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\pages\\counterchild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|solutionrelative:components\\pages\\counterchild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\pages\\counterchild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C54B6C74-5209-4A27-9D53-9486BF368D67}|ManageStateDemo.csproj|solutionrelative:components\\pages\\counterchild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\managestatedemo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65BB4F0E-BE25-2A92-5BB8-A118FB910B7B}|ManageStateDemo.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,8 +70,7 @@
               "RelativeToolTip": "Components\\Pages\\Products.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T20:17:27.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T20:17:27.731Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "Components\\Pages\\Cart.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T20:13:18.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T20:13:18.566Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T20:09:26.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T20:09:26.844Z"
             },
             {
               "$type": "Document",
@@ -122,12 +119,11 @@
               "RelativeToolTip": "Services\\CartState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T20:01:51.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T20:01:51.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CounterGrandChild.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ManageStateDemo\\Components\\Pages\\CounterGrandChild.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\CounterGrandChild.razor",
@@ -135,12 +131,11 @@
               "RelativeToolTip": "Components\\Pages\\CounterGrandChild.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T19:32:56.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T19:32:56.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "CounterChild.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ManageStateDemo\\Components\\Pages\\CounterChild.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\CounterChild.razor",
@@ -148,12 +143,11 @@
               "RelativeToolTip": "Components\\Pages\\CounterChild.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T19:21:09.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T19:21:09.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ManageStateDemo\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-09T19:15:21.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T19:15:21.917Z"
             }
           ]
         }
