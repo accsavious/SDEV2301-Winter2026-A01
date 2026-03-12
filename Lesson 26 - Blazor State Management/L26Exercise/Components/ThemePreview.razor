@@ -1,0 +1,14 @@
+﻿<h3>ThemePreview</h3>
+
+<div 
+    style="background-color: @Theme.BackgroundColor;
+color: @Theme.TextColor; padding: 1rem;" >
+    <p>This is a preview of your selected theme</p>
+</div>
+
+@code {
+    [CascadingParameter]
+    ThemeInfo Theme { get; set; }
+
+
+}

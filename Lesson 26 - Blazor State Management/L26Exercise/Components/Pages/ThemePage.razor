@@ -1,0 +1,18 @@
+﻿@page "/theme"
+
+<h3>Theme Select</h3>
+<label for="background-color">Background Color</label>
+<input type="text" id="background-color" @bind="theme.BackgroundColor" />
+
+<label for="text-color">Background Color</label>
+<input type="text" id="text-color" @bind="theme.TextColor"/>
+
+<CascadingValue Value="theme">
+    <ThemePanel />
+</CascadingValue>
+
+
+@code {
+    ThemeInfo theme = new ThemeInfo();
+
+}

@@ -1,0 +1,20 @@
+﻿@page "/quiz-results"
+@rendermode InteractiveServer
+@using L26Exercise.Services
+@inject QuizState Quiz
+<h3>Your Results</h3>
+
+@if (Quiz.TotalAnswered == 0)
+{
+    <p>You haven't answered any questions yet.</p>
+}
+else
+{
+    <p>Score: @Quiz.Score / @Quiz.TotalAnswered</p>
+}
+
+<button type="button" onclick="@Quiz.Reset">Reset Quiz</button>
+
+@code {
+
+}
