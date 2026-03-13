@@ -1,0 +1,46 @@
+﻿@page "/pollform"
+@using L26Exercise.Models
+
+<EditForm Model="newPoll">
+    <ValidationSummary />
+    <DataAnnotationsValidator />
+
+    <label>Name:</label>
+    <InputText @bind-Value="newPoll.Name" />
+    <ValidationMessage For="@(() => newPoll.Name)" />
+    <br />
+    <label>City:</label>
+    <InputText @bind-Value="newPoll.City" />
+    <ValidationMessage For="@(() => newPoll.City)" />
+    <br />
+    <InputRadioGroup @bind-Value="@newPoll.Candidate">
+        Candidate:
+        <br>
+        @foreach (var candidate in Candidates)
+        {
+            <InputRadio Value="candidate" />
+            @candidate
+            <br>
+        }
+    </InputRadioGroup>
+    <ValidationMessage For="@(() => newPoll.Candidate)" />
+    <br />
+    <label>Confidence Level:</label>
+    <InputNumber @bind-Value="newPoll.ConfidenceLevel" />
+    <ValidationMessage For="@(() => newPoll.ConfidenceLevel)" />
+    <br />
+    <button type="submit">Submit</button>
+</EditForm>
+
+@code {
+    private List<(string? Candidate, int Votes)>? polldata { get; set; }
+    private Poll newPoll = new();
+
+    private List<string> Candidates = new List<string>
+    {
+        "Dancing Dan",
+        "Roller Blading Guitar Guy",
+        "The Current Mayor",
+        "A rock with googley eyes glued to it"
+    };
+}

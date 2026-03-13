@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\servicesdi\\servicesdi\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|solutionrelative:servicesdi\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\servicesdi\\servicesdi\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|solutionrelative:servicesdi\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\servicesdi\\servicesdi\\services\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|solutionrelative:servicesdi\\services\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\servicesdi\\servicesdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|solutionrelative:servicesdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\servicesdi\\servicesdi\\services\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|solutionrelative:servicesdi\\services\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\servicesdi\\servicesdi\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|solutionrelative:servicesdi\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\servicesdi\\servicesdi\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96B46C7F-F65A-09F3-DDEF-1023351C02B3}|ServicesDI\\ServicesDI.csproj|solutionrelative:servicesdi\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MessageService.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Services\\MessageService.cs",
               "RelativeDocumentMoniker": "ServicesDI\\Services\\MessageService.cs",
@@ -54,11 +54,12 @@
               "RelativeToolTip": "ServicesDI\\Services\\MessageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T20:28:07.33Z"
+              "WhenOpened": "2026-03-02T20:28:07.33Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "ServicesDI\\Components\\Pages\\Home.razor",
@@ -71,19 +72,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Program.cs",
               "RelativeDocumentMoniker": "ServicesDI\\Program.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Program.cs",
               "RelativeToolTip": "ServicesDI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T20:13:11.527Z"
+              "WhenOpened": "2026-03-02T20:13:11.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TimerService.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Services\\TimerService.cs",
               "RelativeDocumentMoniker": "ServicesDI\\Services\\TimerService.cs",
@@ -91,7 +93,8 @@
               "RelativeToolTip": "ServicesDI\\Services\\TimerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T20:11:16.521Z"
+              "WhenOpened": "2026-03-02T20:11:16.521Z",
+              "EditorCaption": ""
             }
           ]
         }
