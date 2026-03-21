@@ -1,0 +1,37 @@
+﻿@page "/taskform"
+@using L26Exercise.Models
+@using L26Exercise.Services
+@inject TaskService taskService
+<EditForm Model="_model">
+    <ValidationSummary />
+    <DataAnnotationsValidator />
+
+    <label>Title:</label>
+    <InputText @bind-Value="_model.Title" />
+    <ValidationMessage For="@(() => _model.Title)" />
+    <br />
+    <label>Due Date:</label>
+    <InputDate @bind-Value="_model.DueDate" />
+    <ValidationMessage For="@(() => _model.DueDate)" />
+    <br />
+    <label>Is Complete:</label>
+    <InputCheckbox @bind-Value="_model.IsComplete" />
+    <ValidationMessage For="@(() => _model.IsComplete)" />
+    <br />
+    <button type="submit">Submit</button>
+</EditForm>
+
+@code {
+    private List<TaskItem>? tasks;
+    private TaskItem _model = new();
+
+    private async Task SaveAsync()
+    {
+        
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        tasks = await taskService.ListTaskAsync();
+    }
+}

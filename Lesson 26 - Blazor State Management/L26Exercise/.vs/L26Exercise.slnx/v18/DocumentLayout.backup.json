@@ -1,49 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\",
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\",
   "Documents": [
     {
-<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\components\\pages\\taskitem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:components\\pages\\taskitem.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\data\\dbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:data\\dbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\services\\pollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:services\\pollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\models\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:models\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\components\\pages\\pollform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:components\\pages\\pollform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\components\\pages\\pollform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-=======
-      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\components\\pages\\pollform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
->>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
-      "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:components\\pages\\pollform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\models\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:models\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
-      "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\data\\dbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:data\\dbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\l26exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\l26exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:l26exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\components\\pages\\quizresults.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\components\\pages\\quizresults.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:components\\pages\\quizresults.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\components\\pages\\quiz.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\lesson 26 - blazor state management\\l26exercise\\components\\pages\\quiz.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7B4B29E-2ABF-81AD-67C7-0A22B7A0388D}|L26Exercise.csproj|solutionrelative:components\\pages\\quiz.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -53,32 +49,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-<<<<<<< HEAD
           "DockedWidth": 140,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-21T04:52:01.506Z",
-              "EditorCaption": ""
-            },
-            {
-=======
-          "DockedWidth": 147,
-          "SelectedChildIndex": 5,
-          "Children": [
-            {
->>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -93,151 +69,114 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskItem.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\TaskItem.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\TaskItem.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\TaskItem.razor",
+              "RelativeToolTip": "Components\\Pages\\TaskItem.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-21T14:45:25.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PollForm.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\PollForm.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\PollForm.razor",
               "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\PollForm.razor",
               "RelativeToolTip": "Components\\Pages\\PollForm.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-21T03:04:57.271Z",
-=======
-              "DocumentIndex": 0,
-              "Title": "PollForm.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\PollForm.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\PollForm.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\PollForm.razor",
-              "RelativeToolTip": "Components\\Pages\\PollForm.razor",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-12T15:42:27.158Z",
->>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
+              "WhenOpened": "2026-03-21T14:42:16.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Data\\DbContext .cs",
+              "RelativeDocumentMoniker": "Data\\DbContext .cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Data\\DbContext .cs",
+              "RelativeToolTip": "Data\\DbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T14:42:16.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-21T14:42:16.351Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Models\\TaskItem.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Models\\TaskItem.cs",
-=======
-              "DocumentIndex": 2,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Models\\TaskItem.cs",
-              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Models\\TaskItem.cs",
->>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
               "RelativeToolTip": "Models\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T05:31:43.497Z"
+              "WhenOpened": "2026-03-21T14:42:16.353Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "Poll.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Models\\Poll.cs",
               "RelativeDocumentMoniker": "Models\\Poll.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Models\\Poll.cs",
               "RelativeToolTip": "Models\\Poll.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
-=======
-              "DocumentIndex": 1,
-              "Title": "Poll.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Models\\Poll.cs",
-              "RelativeDocumentMoniker": "Models\\Poll.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Models\\Poll.cs",
-              "RelativeToolTip": "Models\\Poll.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvxEAAAAwAAAAAAAAAA==",
->>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T02:49:33.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 5,
-              "Title": "DbContext .cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Data\\DbContext .cs",
-              "RelativeDocumentMoniker": "Data\\DbContext .cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Data\\DbContext .cs",
-=======
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T00:21:23.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DbContext .cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Data\\DbContext .cs",
-              "RelativeDocumentMoniker": "Data\\DbContext .cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Data\\DbContext .cs",
->>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
-              "RelativeToolTip": "Data\\DbContext .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T23:49:30.637Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 6,
-              "Title": "L26Exercise.csproj",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\L26Exercise.csproj",
-=======
-              "DocumentIndex": 5,
-              "Title": "L26Exercise.csproj",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\L26Exercise.csproj",
->>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
-              "RelativeDocumentMoniker": "L26Exercise.csproj",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\L26Exercise.csproj",
-              "RelativeToolTip": "L26Exercise.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-11T23:51:25.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Quiz.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\Quiz.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Quiz.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\Quiz.razor",
-              "RelativeToolTip": "Components\\Pages\\Quiz.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T16:12:45.365Z"
+              "WhenOpened": "2026-03-21T14:42:16.355Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "L26Exercise.csproj",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\L26Exercise.csproj",
+              "RelativeDocumentMoniker": "L26Exercise.csproj",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\L26Exercise.csproj",
+              "RelativeToolTip": "L26Exercise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T14:42:16.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Quiz.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\Quiz.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Quiz.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\Quiz.razor",
+              "RelativeToolTip": "Components\\Pages\\Quiz.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-21T14:42:16.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "QuizResults.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\QuizResults.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\QuizResults.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\QuizResults.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\QuizResults.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Components\\Pages\\QuizResults.razor",
               "RelativeToolTip": "Components\\Pages\\QuizResults.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T16:13:01.691Z"
-<<<<<<< HEAD
+              "WhenOpened": "2026-03-21T14:42:16.48Z"
             }
           ]
         },
@@ -253,12 +192,10 @@
               "RelativeDocumentMoniker": "Services\\PollService.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\Services\\PollService.cs",
               "RelativeToolTip": "Services\\PollService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T02:25:22.506Z",
+              "WhenOpened": "2026-03-21T14:42:16.482Z",
               "EditorCaption": ""
-=======
->>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
             }
           ]
         }
