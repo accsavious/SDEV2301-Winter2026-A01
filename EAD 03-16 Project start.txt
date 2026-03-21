@@ -1,0 +1,11 @@
+BLL business logic layer
+
+Error handling: errors handled in user friendly way
+Catch exceptions in the bll and survace the messages with try catch
+Avoid unhandled exceptions - no crashing
+Dont worry about exceptions OUT of your control
+
+UI -> buisiness logic layer -> database context -> sql server
+
+sql server -> context -> business layer -> UI
+

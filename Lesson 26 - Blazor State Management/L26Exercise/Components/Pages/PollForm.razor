@@ -1,0 +1,85 @@
+﻿@page "/pollform"
+@using L26Exercise.Models
+@using L26Exercise.Services
+@inject PollService pollService
+@rendermode InteractiveServer
+<EditForm Model="newPoll" OnValidSubmit="AddPoll">
+    <ValidationSummary />
+    <DataAnnotationsValidator />
+
+    <label>Name:</label>
+    <InputText @bind-Value="newPoll.Name" />
+    <ValidationMessage For="@(() => newPoll.Name)" />
+    <br />
+    <label>City:</label>
+    <InputText @bind-Value="newPoll.City" />
+    <ValidationMessage For="@(() => newPoll.City)" />
+    <br />
+    <InputRadioGroup @bind-Value="@newPoll.Candidate">
+        Candidate:
+        <br>
+        @foreach (var candidate in Candidates)
+        {
+            <InputRadio Value="candidate" />
+            @candidate
+            <br>
+        }
+    </InputRadioGroup>
+    <ValidationMessage For="@(() => newPoll.Candidate)" />
+    <br />
+    <label>Confidence Level:</label>
+    <InputNumber @bind-Value="newPoll.ConfidenceLevel" />
+    <ValidationMessage For="@(() => newPoll.ConfidenceLevel)" />
+    <br />
+    <button type="submit">Submit</button>
+</EditForm>
+@if (pollData == null)
+{
+    <p>Loading...</p>
+} else if (pollData.Count() == 0)
+{
+    <p>No Results</p>
+} else
+{
+    <table>
+        <tr>
+            <th>Candidate</th>
+            <th>Votes</th>
+        </tr>
+        @foreach (var poll in pollData)
+        {
+            <tr>
+                <th>@poll.Candidate</th>
+                <th>@poll.Votes</th>
+            </tr>
+        }
+
+    </table>
+}
+
+
+@code {
+    private List<(string? Candidate, int Votes)> pollData = new();
+
+    private Poll newPoll = new();
+
+    private List<string> Candidates = new List<string>
+    {
+        "Dancing Dan",
+        "Roller Blading Guitar Guy",
+        "The Current Mayor",
+        "A rock with googley eyes glued to it"
+    };
+
+    private async Task AddPoll()
+    {
+        Poll poll = newPoll;
+        await pollService.AddPollAsync(poll);
+        newPoll = new Poll();
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        pollData = await pollService.GetVoteCountsAsync();
+    }
+}
