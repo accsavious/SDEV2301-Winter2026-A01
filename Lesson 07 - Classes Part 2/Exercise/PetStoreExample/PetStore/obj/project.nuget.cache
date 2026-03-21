@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z2Jz8obuAqI=",
+  "dgSpecHash": "eZv/FRqW3nA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\PetStore.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\PetStore.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 07 - Classes Part 2\\Exercise\\PetStoreExample\\PetStore\\PetStore.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

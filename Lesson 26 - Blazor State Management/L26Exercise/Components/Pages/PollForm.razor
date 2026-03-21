@@ -1,9 +1,14 @@
 ﻿@page "/pollform"
 @using L26Exercise.Models
+<<<<<<< HEAD
 @using L26Exercise.Services
 @inject PollService pollService
 @rendermode InteractiveServer
 <EditForm Model="newPoll" OnValidSubmit="AddPoll">
+=======
+
+<EditForm Model="newPoll">
+>>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
     <ValidationSummary />
     <DataAnnotationsValidator />
 
@@ -33,6 +38,7 @@
     <br />
     <button type="submit">Submit</button>
 </EditForm>
+<<<<<<< HEAD
 @if (pollData == null)
 {
     <p>Loading...</p>
@@ -61,6 +67,11 @@
 @code {
     private List<(string? Candidate, int Votes)> pollData = new();
 
+=======
+
+@code {
+    private List<(string? Candidate, int Votes)>? polldata { get; set; }
+>>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
     private Poll newPoll = new();
 
     private List<string> Candidates = new List<string>
@@ -70,6 +81,7 @@
         "The Current Mayor",
         "A rock with googley eyes glued to it"
     };
+<<<<<<< HEAD
 
     private async Task AddPoll()
     {
@@ -83,3 +95,6 @@
         pollData = await pollService.GetVoteCountsAsync();
     }
 }
+=======
+}
+>>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3

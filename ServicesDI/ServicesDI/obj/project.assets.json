@@ -2,7 +2,11 @@
   "version": 3,
   "targets": {
     "net10.0": {
+<<<<<<< HEAD
       "Microsoft.AspNetCore.App.Internal.Assets/10.0.5": {
+=======
+      "Microsoft.AspNetCore.App.Internal.Assets/10.0.4": {
+>>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
         "type": "package",
         "build": {
           "build/Microsoft.AspNetCore.App.Internal.Assets.props": {},
@@ -15,10 +19,17 @@
     }
   },
   "libraries": {
+<<<<<<< HEAD
     "Microsoft.AspNetCore.App.Internal.Assets/10.0.5": {
       "sha512": "Oxw9Ps1/nd6c/EMCAI13AeJFEqXezAvCEOshMjUWmL7LeGirHJNzytR2e/3jINYg0j2TmPvNUowGHf+gp8zDSQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.app.internal.assets/10.0.5",
+=======
+    "Microsoft.AspNetCore.App.Internal.Assets/10.0.4": {
+      "sha512": "M942X5Vy726SlvFBuoAC4cDczEMlPAFt1mmyFlrkw/QcpdVwVU0DkF4P9JabxX6eWNm9RvaYZHe25FN7oXoxpQ==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.app.internal.assets/10.0.4",
+>>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -34,14 +45,22 @@
         "build/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildMultiTargeting/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildTransitive/Microsoft.AspNetCore.App.Internal.Assets.targets",
+<<<<<<< HEAD
         "microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512",
+=======
+        "microsoft.aspnetcore.app.internal.assets.10.0.4.nupkg.sha512",
+>>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
         "microsoft.aspnetcore.app.internal.assets.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+<<<<<<< HEAD
       "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.5"
+=======
+      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.4"
+>>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
     ]
   },
   "packageFolders": {
@@ -51,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\ServicesDI.csproj",
+      "projectUniqueName": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\ServicesDI.csproj",
       "projectName": "ServicesDI",
-      "projectPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\ServicesDI.csproj",
+      "projectPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\ServicesDI.csproj",
       "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\obj\\",
+      "outputPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,7 +117,11 @@
           "Microsoft.AspNetCore.App.Internal.Assets": {
             "suppressParent": "All",
             "target": "Package",
+<<<<<<< HEAD
             "version": "[10.0.5, )",
+=======
+            "version": "[10.0.4, )",
+>>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
             "autoReferenced": true
           }
         },
@@ -121,7 +144,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+>>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

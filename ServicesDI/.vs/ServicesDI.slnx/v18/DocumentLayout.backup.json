@@ -54,7 +54,8 @@
               "RelativeToolTip": "ServicesDI\\Services\\MessageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T20:28:07.33Z"
+              "WhenOpened": "2026-03-02T20:28:07.33Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,7 +79,8 @@
               "RelativeToolTip": "ServicesDI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T20:13:11.527Z"
+              "WhenOpened": "2026-03-02T20:13:11.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "qI+PbiVtJ3E=",
+=======
+  "dgSpecHash": "0JD4NY6la1A=",
+>>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
   "success": true,
-  "projectFilePath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\L26Exercise.csproj",
+  "projectFilePath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\Lesson 26 - Blazor State Management\\L26Exercise\\L26Exercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sean\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Sean\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.5\\microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512",
