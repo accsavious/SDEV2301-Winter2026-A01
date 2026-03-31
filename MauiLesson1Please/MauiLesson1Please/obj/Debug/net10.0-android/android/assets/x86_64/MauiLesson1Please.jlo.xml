@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64429faf3848923f0d" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="MauiLesson1Please.MainActivity, MauiLesson1Please">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64429faf3848923f0d" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="MauiLesson1Please.MainApplication, MauiLesson1Please" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="MauiLesson1Please" module-name="MauiLesson1Please.dll">
+    <type assembly-qualified-name="MauiLesson1Please.MainActivity, MauiLesson1Please, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="mauilesson1please.MainActivity" java-key="crc64429faf3848923f0d.MainActivity" managed-key="MauiLesson1Please.MainActivity" partial-assembly-qualified-name="MauiLesson1Please.MainActivity, MauiLesson1Please" />
+    <type assembly-qualified-name="MauiLesson1Please.MainApplication, MauiLesson1Please, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="mauilesson1please.MainApplication" java-key="crc64429faf3848923f0d.MainApplication" managed-key="MauiLesson1Please.MainApplication" partial-assembly-qualified-name="MauiLesson1Please.MainApplication, MauiLesson1Please" />
+  </acw-types>
+</api>

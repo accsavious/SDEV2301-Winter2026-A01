@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MauiLesson1Please.props" />
+</Project>
