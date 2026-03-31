@@ -1,0 +1,27 @@
+﻿@implements IDisposable
+@using MauiLayout.Models
+
+<h4>Last Status</h4>
+<p>@status</p>
+@code {
+    private string status = "no status yet";
+
+    protected override void OnInitialized()
+    {
+        ConfirmationBridge.Instance.ConfirmationChanged
+            += OnConfirmationChanged;
+    }
+
+    private void OnConfirmationChanged(bool result)
+    {
+        status = result ? "User clicked YES" : "User clicked NO";
+
+        InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        ConfirmationBridge.Instance.ConfirmationChanged
+            -= OnConfirmationChanged;
+    }
+}

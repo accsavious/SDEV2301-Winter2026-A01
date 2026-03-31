@@ -1,0 +1,64 @@
+We need bridge classes to connect pages
+
+We gotta learn some xaml
+
+Wrap the blazorWebView in a grid component
+
+<Grid RowDefinitions=""></Grid>
+for RowDefinitions
+Auto: take up as much room as neccesary to render component, and no more
+* fill all remaining space
+
+between grid and the webview add
+<HorizontalStackLayout></HorizontalStackLayout>
+you can give it attributes like Padding and Spacing
+we put these elements between:
+<Label Text="MAUI Native Header" FontAttributes="Bold"/>
+<Button Text="Click Me"></Button>
+
+for each item in a grid, you have to specify which grid row its on
+like this <BlazorWebView Grid.Row="1">
+
+in the MainPag.xaml.cs, we can program the button by creating a OnClicked method:
+
+private async void OnClicked(object sender, EventArgs e)
+{
+    bool answer = await DisplayAlertAsync(
+        "Confirm Action",
+        "Do you want to continue?",
+        "Yes",
+        "No");
+} 
+DisplayAlertAsync can be configured in a number of ways, depending on the args it
+receives
+Its title, message, accept, decline
+In the Button on the xaml add an attribute Clicked="" and enter the name of your method
+
+Confirmation bridge: To manage state
+We connect a component to the Confirmation bridge.
+OnInitialized we subscribe a method to the bridge
+like so
+ConfirmationBridge.Instance.ConfirmationChanged += OnConfirmationChanged;
+
+and unsub like so in a method called Dispose()
+ConfirmationBridge.Instance.ConfirmationChanged -= OnConfirmationChanged;
+
+The subscribed method must take a bool arg and use that to change state
+then InvokeAsync(StateHasChanged);
+
+Lastly connect the confirmationBridge to the OnClicked method in the xaml.cs
+
+ConfirmationBridge.Instance.PublishResult(answer);
+
+we got answer from 
+bool answer = await DisplayAlertAsync(
+	"Confirm Action",
+	"Do you want to continue?",
+	"Yes",
+	"No");
+
+
+RenderFragment
+allows to pass content from the parent to the child
+a special parameter class. Allows us to pass html tags
+

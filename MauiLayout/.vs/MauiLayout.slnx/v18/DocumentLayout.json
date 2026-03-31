@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE023EA2-D4F0-437C-A920-ADC809AD141F}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\components\\pages\\dashboarddemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE023EA2-D4F0-437C-A920-ADC809AD141F}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\components\\pages\\dashboarddemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE023EA2-D4F0-437C-A920-ADC809AD141F}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\components\\dashboardcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE023EA2-D4F0-437C-A920-ADC809AD141F}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\components\\dashboardcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardCard.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\DashboardCard.razor",
+              "RelativeDocumentMoniker": "MauiLayout\\Components\\DashboardCard.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\DashboardCard.razor",
+              "RelativeToolTip": "MauiLayout\\Components\\DashboardCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T17:17:21.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashBoardDemo.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
+              "RelativeDocumentMoniker": "MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
+              "RelativeToolTip": "MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T17:15:57.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
