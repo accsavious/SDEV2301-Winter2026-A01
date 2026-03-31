@@ -1,0 +1,40 @@
+﻿@implements IDisposable
+@using Lesson35Demo.Models
+<div @onclick="GenColor" style="border:2px solid black; background-color: @color; padding:10px; margin:5px; border-radius:6px;">
+    <p>@ChildContent</p>
+</div>
+
+@code {
+    [Parameter] 
+    public RenderFragment ChildContent { get; set; }
+    private string color = "rgb(255, 255 , 255)";
+    Random random = new Random();
+
+    private void GenColor()
+    {
+        int red = random.Next(256);
+        int green = random.Next(256);
+        int blue = random.Next(256);
+
+        color = $"rgb({red}, {green}, {blue})";
+    }
+
+    protected override void OnInitialized()
+    {
+        // Subscribe to the bridge event when the component is created
+        ColorBridge.Instance.ColorChanged += OnResetColor;
+    }
+
+    private void OnResetColor()
+    {
+        color = "rgb(255, 255, 255)";
+
+        InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        // Unsubscribe to avoid memory leaks when component is destroyed
+        ColorBridge.Instance.ColorChanged -= OnResetColor;
+    }
+}
