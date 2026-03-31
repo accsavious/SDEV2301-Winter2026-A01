@@ -186,8 +186,6 @@ C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A0
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\compressed\lqqijc7q2s-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\compressed\aj9vt6bobi-{0}-0j3bgjxly4-0j3bgjxly4.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\compressed\p9oqk8a9mu-{0}-abdmv1u4y3-abdmv1u4y3.gz
-C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\compressed\jv9j3yp5s7-{0}-mgww215af1-mgww215af1.gz
-C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\compressed\dzqh5qdai9-{0}-dy8h75y8gn-dy8h75y8gn.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\compressed\nnjrf4ywgv-{0}-zha11k1odr-zha11k1odr.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\compressed\rr8ade9n3h-{0}-zha11k1odr-zha11k1odr.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\staticwebassets.build.json
@@ -201,3 +199,6 @@ C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A0
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\L26Exercise.pdb
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\L26Exercise.genruntimeconfig.cache
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\ref\L26Exercise.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\compressed\jv9j3yp5s7-{0}-b9228eflpl-b9228eflpl.gz
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\compressed\dzqh5qdai9-{0}-2tj1sjhksk-2tj1sjhksk.gz
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\Lesson 26 - Blazor State Management\L26Exercise\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

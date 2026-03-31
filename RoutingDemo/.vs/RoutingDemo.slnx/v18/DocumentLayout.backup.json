@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\RoutingDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\pages\\aboutme.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\pages\\aboutme.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\pages\\helpme.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\pages\\helpme.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\pages\\aboutme.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\pages\\aboutme.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\pages\\helpme.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\pages\\helpme.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\pages\\help.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\pages\\help.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\pages\\help.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F4BFBEC-B5B9-4ACA-A540-9A08D5832BF8}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\pages\\help.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|c:\\users\\sean\\documents\\school\\nait 2026 winter\\sdev 2301\\sdev2301-winter2026-a01\\routingdemo\\routingdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41F0F0DA-D967-1BB1-5A00-096740E4FF2D}|RoutingDemo\\RoutingDemo.csproj|solutionrelative:routingdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductDetails.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\RoutingDemo\\RoutingDemo\\Components\\Pages\\ProductDetails.razor",
               "RelativeDocumentMoniker": "RoutingDemo\\Components\\Pages\\ProductDetails.razor",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HelpMe.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\RoutingDemo\\RoutingDemo\\Components\\Pages\\HelpMe.razor",
               "RelativeDocumentMoniker": "RoutingDemo\\Components\\Pages\\HelpMe.razor",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AboutMe.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\RoutingDemo\\RoutingDemo\\Components\\Pages\\AboutMe.razor",
               "RelativeDocumentMoniker": "RoutingDemo\\Components\\Pages\\AboutMe.razor",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "About.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\RoutingDemo\\RoutingDemo\\Components\\Pages\\About.razor",
               "RelativeDocumentMoniker": "RoutingDemo\\Components\\Pages\\About.razor",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\RoutingDemo\\RoutingDemo\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "RoutingDemo\\Components\\Layout\\NavMenu.razor",
@@ -114,12 +114,11 @@
               "RelativeToolTip": "RoutingDemo\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-23T20:17:35.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T20:17:35.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Help.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\RoutingDemo\\RoutingDemo\\Components\\Pages\\Help.razor",
               "RelativeDocumentMoniker": "RoutingDemo\\Components\\Pages\\Help.razor",

@@ -70,8 +70,6 @@ C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A0
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\compressed\gwpjg0sf8z-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\compressed\mznrta7nlw-{0}-0j3bgjxly4-0j3bgjxly4.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\compressed\lc75a76iy2-{0}-abdmv1u4y3-abdmv1u4y3.gz
-C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\compressed\qnnwodp5ca-{0}-ax6tuj8tun-ax6tuj8tun.gz
-C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\compressed\0p8icxbsg9-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\compressed\5sl9keo2rp-{0}-fw2cslkg6x-fw2cslkg6x.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\compressed\outs1cs6ys-{0}-fw2cslkg6x-fw2cslkg6x.gz
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\staticwebassets.build.json
@@ -85,3 +83,5 @@ C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A0
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\ServicesDI.pdb
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\ServicesDI.genruntimeconfig.cache
 C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\ref\ServicesDI.dll
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\compressed\qnnwodp5ca-{0}-b9228eflpl-b9228eflpl.gz
+C:\Users\Sean\Documents\School\Nait 2026 Winter\SDEV 2301\SDEV2301-Winter2026-A01\ServicesDI\ServicesDI\obj\Debug\net10.0\compressed\0p8icxbsg9-{0}-2tj1sjhksk-2tj1sjhksk.gz

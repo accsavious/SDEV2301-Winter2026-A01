@@ -29,6 +29,42 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+<<<<<<< HEAD
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+<<<<<<< HEAD
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "ServicesDI\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\School\\Nait 2026 Winter\\SDEV 2301\\SDEV2301-Winter2026-A01\\ServicesDI\\ServicesDI\\Services\\MessageService.cs",
+              "RelativeToolTip": "ServicesDI\\Services\\MessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T20:28:07.33Z"
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+>>>>>>> 76f2b9a8df89d1a67288ac6e2647397fc2ce91a3
+            },
+            {
+>>>>>>> 189ff8218d9f1845d937631233eb22e245440a69
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MessageService.cs",
@@ -50,8 +86,7 @@
               "RelativeToolTip": "ServicesDI\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-02T20:20:21.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T20:20:21.245Z"
             },
             {
               "$type": "Document",

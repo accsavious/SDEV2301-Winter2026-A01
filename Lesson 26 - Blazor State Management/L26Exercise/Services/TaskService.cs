@@ -13,6 +13,11 @@ namespace L26Exercise.Services
             _db = db;
         }
         
+        public async Task<List<TaskItem>> ListTaskAsync()
+        {
+            return await _db.TaskItems.ToListAsync();
+        }
+
         public async Task<TaskItem> AddTaskAsync(TaskItem? t)
         {
             ArgumentNullException.ThrowIfNull(t);

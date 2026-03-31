@@ -28,13 +28,16 @@ namespace L26Exercise.Services
             return p;
         }
 
-        public async Task<List<(string? Candidate, int Votes)>> GetVoteCounts()
+        public async Task<List<(string? Candidate, int Votes)>> GetVoteCountsAsync()
         {
-            return await _db.Polls.GroupBy(p => p.Candidate)
-                .Select(g => new ValueTuple<string?, int>(
-                    g.Key,
-                    g.Count()))
-                .OrderByDescending(g => g.Item2).ThenBy(g => g.Item1).ToListAsync();
+            var data = await _db.Polls.GroupBy(p => p.Candidate)
+                .Select(g => new
+                {
+                    Candidate = g.Key,
+                    Votes = g.Count()
+                })
+                .OrderByDescending(g => g.Votes).ThenBy(g => g.Candidate).ToListAsync();
+            return data.Select(x => (x.Candidate, x.Votes)).ToList();
         }
     }
 }
