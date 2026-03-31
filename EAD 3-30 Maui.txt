@@ -1,0 +1,9 @@
+Web application: only exists on the web
+
+Native app: Runs locally
+
+Hybrid: local app that uses a web application
+Web assembly with a web view
+
+First: install maui
+dotnet workload install maui
