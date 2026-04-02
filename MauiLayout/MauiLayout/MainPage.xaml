@@ -8,6 +8,7 @@
         <HorizontalStackLayout Padding="10" Spacing="10">
             <Label Text="MAUI Native Header" FontAttributes="Bold"/>
             <Button Text="Click Me" Clicked="OnClicked"></Button>
+            <Button Text="Reset Color" Clicked="OnResetColorClicked"></Button>
         </HorizontalStackLayout>
         <BlazorWebView Grid.Row="1" x:Name="blazorWebView" HostPage="wwwroot/index.html">
             <BlazorWebView.RootComponents>

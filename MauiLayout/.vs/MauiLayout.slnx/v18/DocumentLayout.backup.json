@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE023EA2-D4F0-437C-A920-ADC809AD141F}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\components\\pages\\dashboarddemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE023EA2-D4F0-437C-A920-ADC809AD141F}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\components\\pages\\dashboarddemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\components\\card.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\components\\card.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE023EA2-D4F0-437C-A920-ADC809AD141F}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\components\\dashboardcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE023EA2-D4F0-437C-A920-ADC809AD141F}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\components\\dashboardcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\components\\pages\\dashboarddemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\components\\pages\\dashboarddemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\models\\colorbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\models\\colorbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\models\\confirmationbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\models\\confirmationbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\components\\nativeconfirmationstatus.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\components\\nativeconfirmationstatus.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +42,67 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashboardCard.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\DashboardCard.razor",
-              "RelativeDocumentMoniker": "MauiLayout\\Components\\DashboardCard.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\DashboardCard.razor",
-              "RelativeToolTip": "MauiLayout\\Components\\DashboardCard.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Card.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\Card.razor",
+              "RelativeDocumentMoniker": "MauiLayout\\Components\\Card.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\Card.razor",
+              "RelativeToolTip": "MauiLayout\\Components\\Card.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-31T17:17:21.302Z",
+              "WhenOpened": "2026-04-02T03:01:29.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashBoardDemo.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
+              "RelativeDocumentMoniker": "MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
+              "RelativeToolTip": "MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T03:29:25.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiLayout\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiLayout\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T03:30:50.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiLayout\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\MainPage.xaml",
+              "RelativeToolTip": "MauiLayout\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-02T03:26:08.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NativeConfirmationStatus.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\NativeConfirmationStatus.razor",
+              "RelativeDocumentMoniker": "MauiLayout\\Components\\NativeConfirmationStatus.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\NativeConfirmationStatus.razor",
+              "RelativeToolTip": "MauiLayout\\Components\\NativeConfirmationStatus.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T03:16:52.926Z",
               "EditorCaption": ""
             }
           ]
@@ -41,15 +113,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DashBoardDemo.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
-              "RelativeDocumentMoniker": "MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
-              "RelativeToolTip": "MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-31T17:15:57.461Z",
+              "DocumentIndex": 3,
+              "Title": "ColorBridge.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Models\\ColorBridge.cs",
+              "RelativeDocumentMoniker": "MauiLayout\\Models\\ColorBridge.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Models\\ColorBridge.cs",
+              "RelativeToolTip": "MauiLayout\\Models\\ColorBridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:44:02.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfirmationBridge.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Models\\ConfirmationBridge.cs",
+              "RelativeDocumentMoniker": "MauiLayout\\Models\\ConfirmationBridge.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Models\\ConfirmationBridge.cs",
+              "RelativeToolTip": "MauiLayout\\Models\\ConfirmationBridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T03:31:51.904Z",
               "EditorCaption": ""
             }
           ]

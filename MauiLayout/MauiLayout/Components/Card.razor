@@ -1,0 +1,44 @@
+﻿@using MauiLayout.Models
+
+<div class="card"
+    style="width: 18rem; 
+    background-color:@color;"
+    onclick="@GenColor">
+    <p>@ChildContent</p>
+</div>
+
+@code {
+    [Parameter] public RenderFragment ChildContent { get; set; }
+
+    string color = "rgb(255, 255 , 255)";
+
+    Random random = new Random();
+
+    public void GenColor()
+    {
+        int R = random.Next(1, 255);
+        int G = random.Next(1, 255);
+        int B = random.Next(1, 255);
+
+        color = $"rgb({R}, {G}, {B})";
+    }
+
+    public void OnResetColor()
+    {
+        color = "rgb(255, 255 , 255)";
+    }
+
+    protected override void OnInitialized()
+    {
+        ColorBridge.Instance.ColorChanged
+            += OnResetColor;
+
+    }
+
+    public void Dispose()
+    {
+        ColorBridge.Instance.ColorChanged
+            -= OnResetColor;
+
+    }
+}

@@ -7,6 +7,7 @@ namespace MauiLayout
         public MainPage()
         {
             InitializeComponent();
+            ColorBridge.Instance.ResetColors();
         }
         private async void OnClicked(object sender, EventArgs e)
         {
@@ -17,6 +18,11 @@ namespace MauiLayout
                 "No");
 
             ConfirmationBridge.Instance.PublishResult(answer);
+        }
+
+        private void OnResetColorClicked(object sender, EventArgs e)
+        {
+
         }
     }
 }
