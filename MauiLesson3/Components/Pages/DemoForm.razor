@@ -1,0 +1,31 @@
+﻿@page "/demo-form"
+
+<label>Name:</label>
+<input @bind="@name" @bind:event="oninput" />
+<label>Favourite Color:</label>
+<input @bind="@favoriteColor" @bind:event="oninput" />
+
+<p>Name: @name</p>
+<p>Favorite Color: @favoriteColor</p>
+
+<textarea maxlength="150" @oninput="(e) => onTypeComment(e.Value)"/>
+<p>Character count: @wordCount</p>
+<p>Remaining characters: @wordsLeft</p>
+@code {
+    private string name = "";
+    private string favoriteColor = "";
+
+    private int wordCount;
+    private int wordsLeft = 150;
+
+    private void onTypeComment(object? eventValue)
+    {
+        if (eventValue != null)
+        {
+            string comment = eventValue.ToString();
+            wordCount = comment.Count();
+            wordsLeft = 150 - wordCount;
+        }
+
+    }
+}

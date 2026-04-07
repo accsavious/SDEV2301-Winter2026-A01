@@ -1,0 +1,6 @@
+Model -> view -> update
+model the data
+View the data
+Update it
+
+<input @bind="@name"/>

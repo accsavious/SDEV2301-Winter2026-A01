@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="FirstMauiLesson" mvid="d56fbed3b16e4909816c92aed5507423">
+<api type="debug" assembly-name="FirstMauiLesson" mvid="8a96ac2f5c274b83a48ba655f4fedfc4">
   <java-to-managed>
     <entry java-name="crc645358b5ab2c596f1f/MainActivity" managed-name="FirstMauiLesson.MainActivity, FirstMauiLesson" managed-type-token-id="33554441" />
     <entry java-name="crc645358b5ab2c596f1f/MainApplication" managed-name="FirstMauiLesson.MainApplication, FirstMauiLesson" managed-type-token-id="33554442" />
