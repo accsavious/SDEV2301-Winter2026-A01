@@ -1,0 +1,64 @@
+﻿@page "/products"
+@using MauiAppLesson4.Models
+@using MauiAppLesson4.Services
+@inject IProductService ProductService
+@inject IDiscountServices DiscountServices
+@inject NavigationManager Nav
+<h3>Products</h3>
+ 
+@if (products is null)
+{
+    <p><em>Loading...</em></p>
+}
+else if (!products.Any())
+{
+    <p>No products available.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Category</th>
+                <th>Price</th>
+                <th>Discounted Price</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in products)
+            {
+                var discounted = DiscountServices.ApplyDiscount(p.Price);
+                <tr>
+                    <td>@p.Id</td>
+                    <td>@p.Name</td>
+                    <td>@p.Category</td>
+                    <td>@p.Price.ToString("C")</td>
+                    <td>@discounted.ToString("C")</td>
+                    <td>
+                        <button class="btn btn-primary btn-sm"
+                                @onclick="() => GoToDetails(p.Id)">
+                            View
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    private IEnumerable<Product>? products;
+
+    protected override void OnInitialized()
+    {
+        products = ProductService.GetProducts();
+    }
+
+    private void GoToDetails(int id)
+    {
+        Nav.NavigateTo($"/products/{id}");
+    }
+ 
+}

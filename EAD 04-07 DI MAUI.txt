@@ -1,0 +1,9 @@
+Interface. When a class uses an interface, that class must implement the interfaces same methods.
+
+Services in Maui are set up with interfaces
+
+You build the dependency with the Interface and Service together
+
+builder.Services.AddSingleton<IProductService, MockProductService>();
+Then inject it onto the page like:
+@Inject IProductService
