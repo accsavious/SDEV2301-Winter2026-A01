@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\components\\card.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\components\\card.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\components\\pages\\dashboarddemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\components\\pages\\dashboarddemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\models\\colorbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\models\\colorbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\models\\colorbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\models\\colorbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\components\\card.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\components\\card.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\components\\pages\\dashboarddemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|solutionrelative:mauilayout\\components\\pages\\dashboarddemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8016EC28-88A8-1CBD-5C63-AD989203E6B1}|MauiLayout\\MauiLayout.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilayout\\mauilayout\\models\\confirmationbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,12 +41,25 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 305,
+          "DockedWidth": 357,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiLayout\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\MauiProgram.cs*",
+              "RelativeToolTip": "MauiLayout\\MauiProgram.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T02:19:24.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Card.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\Card.razor",
               "RelativeDocumentMoniker": "MauiLayout\\Components\\Card.razor",
@@ -55,7 +72,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiLayout\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\MainPage.xaml.cs*",
+              "RelativeToolTip": "MauiLayout\\MainPage.xaml.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T03:30:50.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DashBoardDemo.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
               "RelativeDocumentMoniker": "MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
@@ -63,25 +93,11 @@
               "RelativeToolTip": "MauiLayout\\Components\\Pages\\DashBoardDemo.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-02T03:29:25.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T03:29:25.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MauiLayout\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\MainPage.xaml.cs",
-              "RelativeToolTip": "MauiLayout\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T03:30:50.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\MainPage.xaml",
               "RelativeDocumentMoniker": "MauiLayout\\MainPage.xaml",
@@ -94,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "NativeConfirmationStatus.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Components\\NativeConfirmationStatus.razor",
               "RelativeDocumentMoniker": "MauiLayout\\Components\\NativeConfirmationStatus.razor",
@@ -102,31 +118,30 @@
               "RelativeToolTip": "MauiLayout\\Components\\NativeConfirmationStatus.razor",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-02T03:16:52.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T03:16:52.926Z"
             }
           ]
         },
         {
-          "DockedWidth": 305,
+          "DockedWidth": 253,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ColorBridge.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Models\\ColorBridge.cs",
               "RelativeDocumentMoniker": "MauiLayout\\Models\\ColorBridge.cs",
               "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Models\\ColorBridge.cs",
               "RelativeToolTip": "MauiLayout\\Models\\ColorBridge.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T17:44:02.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ConfirmationBridge.cs",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLayout\\MauiLayout\\Models\\ConfirmationBridge.cs",
               "RelativeDocumentMoniker": "MauiLayout\\Models\\ConfirmationBridge.cs",
@@ -134,8 +149,7 @@
               "RelativeToolTip": "MauiLayout\\Models\\ConfirmationBridge.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T03:31:51.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T03:31:51.904Z"
             }
           ]
         }

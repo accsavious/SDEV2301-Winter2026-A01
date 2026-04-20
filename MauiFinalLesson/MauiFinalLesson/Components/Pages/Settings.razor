@@ -1,0 +1,26 @@
+﻿@page "/settings"
+@inject IJSRuntime JS
+
+<h3>Settings</h3>
+<select @onchange="ChangeThemeAsync" value="@theme">
+    <option value="Light">Light</option>
+    <option value="Dark">Dark</option>
+</select>
+
+@code {
+    private string? theme;
+    protected override async Task OnInitializedAsync()
+    {
+        // gets item at AppTheme key, or defaults to Light
+        theme = Preferences.Default.Get("AppTheme", "Light");
+        await JS.InvokeVoidAsync("applyTheme", theme);
+    }
+
+    private async Task ChangeThemeAsync(ChangeEventArgs e)
+    {
+        theme = e.Value?.ToString() ?? "Light";
+        Preferences.Default.Set("AppTheme", theme);
+
+        await JS.InvokeVoidAsync("applyTheme", theme);
+    }
+}

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLesson1Please\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BCF6FB68-6DDC-FD16-FC1F-D998A40AA113}|MauiLesson1Please\\MauiLesson1Please.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilesson1please\\mauilesson1please\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF6FB68-6DDC-FD16-FC1F-D998A40AA113}|MauiLesson1Please\\MauiLesson1Please.csproj|solutionrelative:mauilesson1please\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF6FB68-6DDC-FD16-FC1F-D998A40AA113}|MauiLesson1Please\\MauiLesson1Please.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilesson1please\\mauilesson1please\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCF6FB68-6DDC-FD16-FC1F-D998A40AA113}|MauiLesson1Please\\MauiLesson1Please.csproj|solutionrelative:mauilesson1please\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BCF6FB68-6DDC-FD16-FC1F-D998A40AA113}|MauiLesson1Please\\MauiLesson1Please.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauilesson1please\\mauilesson1please\\mauilesson1please.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BCF6FB68-6DDC-FD16-FC1F-D998A40AA113}|MauiLesson1Please\\MauiLesson1Please.csproj|solutionrelative:mauilesson1please\\mauilesson1please.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -23,7 +31,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MauiLesson1Please",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLesson1Please\\MauiLesson1Please\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiLesson1Please\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLesson1Please\\MauiLesson1Please\\App.xaml.cs",
+              "RelativeToolTip": "MauiLesson1Please\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T02:06:07.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLesson1Please\\MauiLesson1Please\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiLesson1Please\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLesson1Please\\MauiLesson1Please\\MainPage.xaml",
+              "RelativeToolTip": "MauiLesson1Please\\MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-18T02:06:01.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiLesson1Please.csproj",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLesson1Please\\MauiLesson1Please\\MauiLesson1Please.csproj",
               "RelativeDocumentMoniker": "MauiLesson1Please\\MauiLesson1Please.csproj",
               "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLesson1Please\\MauiLesson1Please\\MauiLesson1Please.csproj",
@@ -35,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLesson1Please\\MauiLesson1Please\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "MauiLesson1Please\\Components\\Pages\\Home.razor",
@@ -43,8 +77,7 @@
               "RelativeToolTip": "MauiLesson1Please\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-30T20:08:44.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T20:08:44.989Z"
             }
           ]
         }

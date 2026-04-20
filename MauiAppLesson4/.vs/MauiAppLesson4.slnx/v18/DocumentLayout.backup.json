@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\components\\pages\\productslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\components\\pages\\productslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18831A9D-C73C-DBBE-49D4-86F875E99AC8}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\components\\pages\\productslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18831A9D-C73C-DBBE-49D4-86F875E99AC8}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\components\\pages\\productslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18831A9D-C73C-DBBE-49D4-86F875E99AC8}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18831A9D-C73C-DBBE-49D4-86F875E99AC8}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18831A9D-C73C-DBBE-49D4-86F875E99AC8}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18831A9D-C73C-DBBE-49D4-86F875E99AC8}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\services\\simplediscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\services\\simplediscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\services\\mockproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\services\\mockproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\services\\idiscountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\services\\idiscountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B82A0DB-CD92-4C63-AB40-E6CCC677EDA0}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{18831A9D-C73C-DBBE-49D4-86F875E99AC8}|MauiAppLesson4\\MauiAppLesson4.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauiapplesson4\\mauiapplesson4\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18831A9D-C73C-DBBE-49D4-86F875E99AC8}|MauiAppLesson4\\MauiAppLesson4.csproj|solutionrelative:mauiapplesson4\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +26,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 148,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "MauiAppLesson4\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Components\\Routes.razor",
+              "RelativeToolTip": "MauiAppLesson4\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T14:13:24.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductDetails.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Components\\Pages\\ProductDetails.razor",
               "RelativeDocumentMoniker": "MauiAppLesson4\\Components\\Pages\\ProductDetails.razor",
@@ -62,12 +50,11 @@
               "RelativeToolTip": "MauiAppLesson4\\Components\\Pages\\ProductDetails.razor",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-07T16:49:55.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T16:49:55.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "MauiAppLesson4\\Components\\Layout\\NavMenu.razor",
@@ -75,8 +62,7 @@
               "RelativeToolTip": "MauiAppLesson4\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-07T16:38:58.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T16:38:58.712Z"
             },
             {
               "$type": "Document",
@@ -86,100 +72,9 @@
               "RelativeDocumentMoniker": "MauiAppLesson4\\Components\\Pages\\ProductsList.razor",
               "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Components\\Pages\\ProductsList.razor",
               "RelativeToolTip": "MauiAppLesson4\\Components\\Pages\\ProductsList.razor",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-07T16:35:27.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiAppLesson4\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\MauiProgram.cs",
-              "RelativeToolTip": "MauiAppLesson4\\MauiProgram.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T16:26:49.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SimpleDiscountService.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Services\\SimpleDiscountService.cs",
-              "RelativeDocumentMoniker": "MauiAppLesson4\\Services\\SimpleDiscountService.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Services\\SimpleDiscountService.cs",
-              "RelativeToolTip": "MauiAppLesson4\\Services\\SimpleDiscountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T16:24:22.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MockProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Services\\MockProductService.cs",
-              "RelativeDocumentMoniker": "MauiAppLesson4\\Services\\MockProductService.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Services\\MockProductService.cs",
-              "RelativeToolTip": "MauiAppLesson4\\Services\\MockProductService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T16:19:18.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "MauiAppLesson4\\Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Services\\IProductService.cs",
-              "RelativeToolTip": "MauiAppLesson4\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T16:16:40.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IDiscountServices.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Services\\IDiscountServices.cs",
-              "RelativeDocumentMoniker": "MauiAppLesson4\\Services\\IDiscountServices.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Services\\IDiscountServices.cs",
-              "RelativeToolTip": "MauiAppLesson4\\Services\\IDiscountServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T16:13:34.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "MauiAppLesson4\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Models\\Product.cs",
-              "RelativeToolTip": "MauiAppLesson4\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T16:12:46.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "MauiAppLesson4\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiAppLesson4\\MauiAppLesson4\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "MauiAppLesson4\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-07T16:05:47.654Z",
               "EditorCaption": ""
             }
           ]

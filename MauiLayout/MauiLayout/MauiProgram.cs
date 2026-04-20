@@ -20,7 +20,8 @@ namespace MauiLayout
     		builder.Services.AddBlazorWebViewDeveloperTools();
     		builder.Logging.AddDebug();
 #endif
-
+            string LastLaunch;
+            
             return builder.Build();
         }
     }

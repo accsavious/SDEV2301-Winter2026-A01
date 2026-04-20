@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiLayout")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7287c82937262b45600bd4b1b1e1f225a4fb376e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7dbc277342e0b42d7cdf676a36f6f129242e0dfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiLayout")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiLayout")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,3 @@
+Websites are limited to the browser, they cant access your computer normally.
+
+For our maui-blazor app to access our computer, we use maui apis to access our systems.

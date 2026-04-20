@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiFinalLesson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22979553-2A06-69AB-22FA-DA03958B85A8}|MauiFinalLesson\\MauiFinalLesson.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauifinallesson\\mauifinallesson\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22979553-2A06-69AB-22FA-DA03958B85A8}|MauiFinalLesson\\MauiFinalLesson.csproj|solutionrelative:mauifinallesson\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22979553-2A06-69AB-22FA-DA03958B85A8}|MauiFinalLesson\\MauiFinalLesson.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauifinallesson\\mauifinallesson\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22979553-2A06-69AB-22FA-DA03958B85A8}|MauiFinalLesson\\MauiFinalLesson.csproj|solutionrelative:mauifinallesson\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22979553-2A06-69AB-22FA-DA03958B85A8}|MauiFinalLesson\\MauiFinalLesson.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauifinallesson\\mauifinallesson\\components\\pages\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22979553-2A06-69AB-22FA-DA03958B85A8}|MauiFinalLesson\\MauiFinalLesson.csproj|solutionrelative:mauifinallesson\\components\\pages\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiFinalLesson\\MauiFinalLesson\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MauiFinalLesson\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiFinalLesson\\MauiFinalLesson\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "MauiFinalLesson\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T19:14:06.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiFinalLesson\\MauiFinalLesson\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "MauiFinalLesson\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiFinalLesson\\MauiFinalLesson\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "MauiFinalLesson\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T20:11:06.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiFinalLesson\\MauiFinalLesson\\Components\\Pages\\Settings.razor",
+              "RelativeDocumentMoniker": "MauiFinalLesson\\Components\\Pages\\Settings.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiFinalLesson\\MauiFinalLesson\\Components\\Pages\\Settings.razor",
+              "RelativeToolTip": "MauiFinalLesson\\Components\\Pages\\Settings.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T19:10:48.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

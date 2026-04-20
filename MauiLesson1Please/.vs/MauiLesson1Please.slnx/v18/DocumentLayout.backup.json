@@ -23,7 +23,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MauiLesson1Please",
+              "Title": "MauiLesson1Please.csproj",
               "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLesson1Please\\MauiLesson1Please\\MauiLesson1Please.csproj",
               "RelativeDocumentMoniker": "MauiLesson1Please\\MauiLesson1Please.csproj",
               "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiLesson1Please\\MauiLesson1Please\\MauiLesson1Please.csproj",
@@ -43,8 +43,7 @@
               "RelativeToolTip": "MauiLesson1Please\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-30T20:08:44.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T20:08:44.989Z"
             }
           ]
         }

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiDeviceAccessLesson5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670D6CC0-F3D3-E8F0-BDB3-75E9A4627B08}|MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauideviceaccesslesson5\\mauideviceaccesslesson5\\components\\pages\\deviceinfopage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670D6CC0-F3D3-E8F0-BDB3-75E9A4627B08}|MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5.csproj|solutionrelative:mauideviceaccesslesson5\\components\\pages\\deviceinfopage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D6CC0-F3D3-E8F0-BDB3-75E9A4627B08}|MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauideviceaccesslesson5\\mauideviceaccesslesson5\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670D6CC0-F3D3-E8F0-BDB3-75E9A4627B08}|MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5.csproj|solutionrelative:mauideviceaccesslesson5\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D6CC0-F3D3-E8F0-BDB3-75E9A4627B08}|MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauideviceaccesslesson5\\mauideviceaccesslesson5\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670D6CC0-F3D3-E8F0-BDB3-75E9A4627B08}|MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5.csproj|solutionrelative:mauideviceaccesslesson5\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D6CC0-F3D3-E8F0-BDB3-75E9A4627B08}|MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauideviceaccesslesson5\\mauideviceaccesslesson5\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670D6CC0-F3D3-E8F0-BDB3-75E9A4627B08}|MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5.csproj|solutionrelative:mauideviceaccesslesson5\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D6CC0-F3D3-E8F0-BDB3-75E9A4627B08}|MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5.csproj|c:\\users\\sean\\documents\\2026 winter nait\\sdev 2301\\sdev2301-winter2026-a01\\mauideviceaccesslesson5\\mauideviceaccesslesson5\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670D6CC0-F3D3-E8F0-BDB3-75E9A4627B08}|MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5.csproj|solutionrelative:mauideviceaccesslesson5\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviceInfoPage.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5\\Components\\Pages\\DeviceInfoPage.razor",
+              "RelativeDocumentMoniker": "MauiDeviceAccessLesson5\\Components\\Pages\\DeviceInfoPage.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5\\Components\\Pages\\DeviceInfoPage.razor",
+              "RelativeToolTip": "MauiDeviceAccessLesson5\\Components\\Pages\\DeviceInfoPage.razor",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T19:26:54.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiDeviceAccessLesson5\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5\\MauiProgram.cs",
+              "RelativeToolTip": "MauiDeviceAccessLesson5\\MauiProgram.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:25:45.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "MauiDeviceAccessLesson5\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "MauiDeviceAccessLesson5\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T19:10:55.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5\\Services\\DeviceService.cs",
+              "RelativeDocumentMoniker": "MauiDeviceAccessLesson5\\Services\\DeviceService.cs",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5\\Services\\DeviceService.cs",
+              "RelativeToolTip": "MauiDeviceAccessLesson5\\Services\\DeviceService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T19:33:08.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MauiDeviceAccessLesson5\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Sean\\Documents\\2026 Winter Nait\\SDEV 2301\\SDEV2301-Winter2026-A01\\MauiDeviceAccessLesson5\\MauiDeviceAccessLesson5\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "MauiDeviceAccessLesson5\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T19:28:20.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
